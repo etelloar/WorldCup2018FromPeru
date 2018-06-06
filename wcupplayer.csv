@@ -1,0 +1,780 @@
+,Grupo,Pais,Pos,Name,Captain,Age,Caps,Goals,Club
+0,Group A,Egypt,1GK,Essam El-Hadary,Si,(1973-01-15)15 January 1973 (aged 45),157,0, Al Taawoun
+1,Group A,Egypt,1GK,Sherif Ekramy,No,(1983-07-01)1 July 1983 (aged 34),22,0, Al Ahly
+2,Group A,Egypt,1GK,Mohamed Awad,No,(1992-07-06)6 July 1992 (aged 25),3,0, Ismaily
+3,Group A,Egypt,1GK,Mohamed El-Shenawy,No,(1988-12-18)18 December 1988 (aged 29),2,0, Al Ahly
+4,Group A,Egypt,2DF,Ahmed Fathy,No,(1984-11-10)10 November 1984 (aged 33),125,3, Al Ahly
+5,Group A,Egypt,2DF,Ahmed Elmohamady,No,(1987-09-09)9 September 1987 (aged 30),77,2, Aston Villa
+6,Group A,Egypt,2DF,Mohamed Abdel-Shafy,No,(1985-07-01)1 July 1985 (aged 32),50,1, Al Fateh
+7,Group A,Egypt,2DF,Ahmed Hegazi,No,(1991-01-25)25 January 1991 (aged 27),44,1, West Bromwich Albion
+8,Group A,Egypt,2DF,Omar Gaber,No,(1992-01-30)30 January 1992 (aged 26),23,0, Los Angeles FC
+9,Group A,Egypt,2DF,Ali Gabr,No,(1989-01-10)10 January 1989 (aged 29),20,1, West Bromwich Albion
+10,Group A,Egypt,2DF,Saad Samir,No,(1989-04-01)1 April 1989 (aged 29),11,0, Al Ahly
+11,Group A,Egypt,2DF,Karim Hafez,No,(1996-03-12)12 March 1996 (aged 22),5,0, Lens
+12,Group A,Egypt,2DF,Ayman Ashraf,No,(1991-04-09)9 April 1991 (aged 27),4,0, Al Ahly
+13,Group A,Egypt,2DF,Amro Tarek,No,(1992-05-17)17 May 1992 (aged 26),1,0, Orlando City
+14,Group A,Egypt,2DF,Mahmoud Hamdy,No,(1995-06-01)1 June 1995 (aged 23),0,0, Zamalek
+15,Group A,Egypt,3MF,Mohamed Elneny,No,(1992-07-11)11 July 1992 (aged 25),60,5, Arsenal
+16,Group A,Egypt,3MF,Abdallah Said,No,(1985-07-13)13 July 1985 (aged 32),35,6, KuPS
+17,Group A,Egypt,3MF,Shikabala,No,(1986-03-05)5 March 1986 (aged 32),29,2, Al Raed
+18,Group A,Egypt,3MF,Trézéguet,No,(1994-10-01)1 October 1994 (aged 23),23,2, Kasımpaşa
+19,Group A,Egypt,3MF,Ramadan Sobhi,No,(1997-01-23)23 January 1997 (aged 21),22,1, Stoke City
+20,Group A,Egypt,3MF,Tarek Hamed,No,(1988-10-24)24 October 1988 (aged 29),20,0, Zamalek
+21,Group A,Egypt,3MF,Kahraba,No,(1994-04-13)13 April 1994 (aged 24),18,3, Al-Ittihad
+22,Group A,Egypt,3MF,Amr Warda,No,(1993-09-13)13 September 1993 (aged 24),15,0, Atromitos
+23,Group A,Egypt,3MF,Sam Morsy,No,(1991-09-10)10 September 1991 (aged 26),4,0, Wigan Athletic
+24,Group A,Egypt,3MF,Mahmoud Abdel Aziz,No,(1990-07-27)27 July 1990 (aged 27),1,0, Zamalek
+25,Group A,Egypt,4FW,Mohamed Salah,No,(1992-06-15)15 June 1992 (aged 25),57,33, Liverpool
+26,Group A,Egypt,4FW,Marwan Mohsen,No,(1989-02-26)26 February 1989 (aged 29),23,4, Al Ahly
+27,Group A,Egypt,4FW,Ahmed Hassan Kouka,No,(1993-03-05)5 March 1993 (aged 25),15,5, Braga
+28,Group A,Egypt,4FW,Ahmed Gomaa,No,(1988-08-16)16 August 1988 (aged 29),1,0, Al Masry
+29,Group A,Russia,1GK,Igor Akinfeev,Si,(1986-04-08)8 April 1986 (aged 32),105,0, CSKA Moscow
+30,Group A,Russia,1GK,Vladimir Gabulov,No,(1983-10-19)19 October 1983 (aged 34),10,0, Club Brugge
+31,Group A,Russia,1GK,Andrey Lunyov,No,(1991-11-13)13 November 1991 (aged 26),3,0, Zenit Saint Petersburg
+32,Group A,Russia,2DF,Mário Fernandes,No,(1990-09-19)19 September 1990 (aged 27),4,0, CSKA Moscow
+33,Group A,Russia,2DF,Vladimir Granat,No,(1987-05-22)22 May 1987 (aged 31),12,1, Rubin Kazan
+34,Group A,Russia,2DF,Sergei Ignashevich,No,(1979-07-14)14 July 1979 (aged 38),121,8, CSKA Moscow
+35,Group A,Russia,2DF,Fyodor Kudryashov,No,(1987-04-05)5 April 1987 (aged 31),18,0, Rubin Kazan
+36,Group A,Russia,2DF,Ilya Kutepov,No,(1993-07-29)29 July 1993 (aged 24),6,0, Spartak Moscow
+37,Group A,Russia,2DF,Andrei Semyonov,No,(1989-03-24)24 March 1989 (aged 29),6,0, Akhmat Grozny
+38,Group A,Russia,2DF,Igor Smolnikov,No,(1988-08-08)8 August 1988 (aged 29),26,0, Zenit Saint Petersburg
+39,Group A,Russia,3MF,Denis Cheryshev,No,(1990-12-26)26 December 1990 (aged 27),11,0, Villarreal
+40,Group A,Russia,3MF,Alan Dzagoev,No,(1990-06-17)17 June 1990 (aged 27),56,9, CSKA Moscow
+41,Group A,Russia,3MF,Yury Gazinsky,No,(1989-07-20)20 July 1989 (aged 28),5,0, Krasnodar
+42,Group A,Russia,3MF,Aleksandr Golovin,No,(1996-05-30)30 May 1996 (aged 22),18,2, CSKA Moscow
+43,Group A,Russia,3MF,Daler Kuzyayev,No,(1993-01-15)15 January 1993 (aged 25),5,0, Zenit Saint Petersburg
+44,Group A,Russia,3MF,Anton Miranchuk,No,(1995-10-17)17 October 1995 (aged 22),5,0, Lokomotiv Moscow
+45,Group A,Russia,3MF,Aleksandr Samedov,No,(1984-07-19)19 July 1984 (aged 33),47,6, Spartak Moscow
+46,Group A,Russia,3MF,Aleksandr Yerokhin,No,(1989-10-13)13 October 1989 (aged 28),17,0, Zenit Saint Petersburg
+47,Group A,Russia,3MF,Yuri Zhirkov,No,(1983-08-20)20 August 1983 (aged 34),83,2, Zenit Saint Petersburg
+48,Group A,Russia,3MF,Roman Zobnin,No,(1994-02-11)11 February 1994 (aged 24),11,0, Spartak Moscow
+49,Group A,Russia,4FW,Artem Dzyuba,No,(1988-08-22)22 August 1988 (aged 29),23,11, Arsenal Tula
+50,Group A,Russia,4FW,Aleksei Miranchuk,No,(1995-10-17)17 October 1995 (aged 22),17,4, Lokomotiv Moscow
+51,Group A,Russia,4FW,Fyodor Smolov,No,(1990-02-05)5 February 1990 (aged 28),31,12, Krasnodar
+52,Group A,Saudi Arabia,1GK,Abdullah Al-Mayouf,No,(1987-01-23)23 January 1987 (aged 31),10,0, Al-Hilal
+53,Group A,Saudi Arabia,1GK,Yasser Al Mosailem,No,(1984-02-27)27 February 1984 (aged 34),32,0, Al-Ahli
+54,Group A,Saudi Arabia,1GK,Mohammed Al-Owais,No,(1991-10-10)10 October 1991 (aged 26),6,0, Al-Ahli
+55,Group A,Saudi Arabia,2DF,Mohammed Al-Breik,No,(1992-09-15)15 September 1992 (aged 25),10,1, Al-Hilal
+56,Group A,Saudi Arabia,2DF,Ali Al Bulaihi,No,(1989-11-21)21 November 1989 (aged 28),3,0, Al-Hilal
+57,Group A,Saudi Arabia,2DF,Mansoor Al-Harbi,No,(1987-10-19)19 October 1987 (aged 30),39,1, Al-Ahli
+58,Group A,Saudi Arabia,2DF,Yasser Al-Shahrani,No,(1992-05-25)25 May 1992 (aged 26),36,0, Al-Hilal
+59,Group A,Saudi Arabia,2DF,Motaz Hawsawi,No,(1992-02-17)17 February 1992 (aged 26),17,0, Al-Ahli
+60,Group A,Saudi Arabia,2DF,Omar Hawsawi,No,(1985-09-27)27 September 1985 (aged 32),41,3, Al-Nassr
+61,Group A,Saudi Arabia,2DF,Osama Hawsawi,Si,(1984-03-31)31 March 1984 (aged 34),134,7, Al-Hilal
+62,Group A,Saudi Arabia,3MF,Salem Al-Dawsari,No,(1991-08-19)19 August 1991 (aged 26),32,4, Villarreal
+63,Group A,Saudi Arabia,3MF,Salman Al-Faraj,No,(1989-08-01)1 August 1989 (aged 28),42,3, Al-Hilal
+64,Group A,Saudi Arabia,3MF,Taisir Al-Jassim,No,(1984-07-25)25 July 1984 (aged 33),131,18, Al-Ahli
+65,Group A,Saudi Arabia,3MF,Yahya Al-Shehri,No,(1990-06-26)26 June 1990 (aged 27),56,8, Al-Nassr
+66,Group A,Saudi Arabia,3MF,Abdullah Al-Khaibari,No,(1996-08-16)16 August 1996 (aged 21),4,0, Al-Shabab
+67,Group A,Saudi Arabia,3MF,Abdulmalek Al-Khaibri,No,(1986-03-13)13 March 1986 (aged 32),36,0, Al-Hilal
+68,Group A,Saudi Arabia,3MF,Housain Al-Mogahwi,No,(1988-01-28)28 January 1988 (aged 30),17,1, Al-Ahli
+69,Group A,Saudi Arabia,3MF,Hattan Bahebri,No,(1992-07-16)16 July 1992 (aged 25),4,0, Al-Shabab
+70,Group A,Saudi Arabia,3MF,Mohamed Kanno,No,(1994-09-22)22 September 1994 (aged 23),6,1, Al-Hilal
+71,Group A,Saudi Arabia,3MF,Abdullah Otayf,No,(1992-08-03)3 August 1992 (aged 25),15,1, Al-Hilal
+72,Group A,Saudi Arabia,4FW,Fahad Al-Muwallad,No,(1994-09-14)14 September 1994 (aged 23),44,10, Levante
+73,Group A,Saudi Arabia,4FW,Mohammad Al-Sahlawi,No,(1987-01-10)10 January 1987 (aged 31),39,28, Al-Nassr
+74,Group A,Saudi Arabia,4FW,Muhannad Assiri,No,(1986-10-14)14 October 1986 (aged 31),18,4, Al-Ahli
+75,Group A,Uruguay,1GK,Martín Campaña,No,(1989-05-29)29 May 1989 (aged 29),1,0, Independiente
+76,Group A,Uruguay,1GK,Fernando Muslera,No,(1986-06-16)16 June 1986 (aged 31),96,0, Galatasaray
+77,Group A,Uruguay,1GK,Martín Silva,No,(1983-03-23)23 March 1983 (aged 35),11,0, Vasco da Gama
+78,Group A,Uruguay,2DF,Martín Cáceres,No,(1987-04-07)7 April 1987 (aged 31),75,4, Lazio
+79,Group A,Uruguay,2DF,Sebastián Coates,No,(1990-10-07)7 October 1990 (aged 27),30,1, Sporting CP
+80,Group A,Uruguay,2DF,José Giménez,No,(1995-01-20)20 January 1995 (aged 23),41,4, Atlético Madrid
+81,Group A,Uruguay,2DF,Diego Godín,Si,(1986-02-16)16 February 1986 (aged 32),115,8, Atlético Madrid
+82,Group A,Uruguay,2DF,Maxi Pereira,No,(1984-06-08)8 June 1984 (aged 34),124,3, Porto
+83,Group A,Uruguay,2DF,Gastón Silva,No,(1994-03-05)5 March 1994 (aged 24),17,0, Independiente
+84,Group A,Uruguay,2DF,Guillermo Varela,No,(1993-03-24)24 March 1993 (aged 25),3,0, Peñarol
+85,Group A,Uruguay,3MF,Rodrigo Bentancur,No,(1997-06-05)5 June 1997 (aged 21),6,0, Juventus
+86,Group A,Uruguay,3MF,Giorgian De Arrascaeta,No,(1994-05-01)1 May 1994 (aged 24),13,1, Cruzeiro
+87,Group A,Uruguay,3MF,Diego Laxalt,No,(1993-02-07)7 February 1993 (aged 25),5,0, Genoa
+88,Group A,Uruguay,3MF,Nahitan Nández,No,(1995-12-28)28 December 1995 (aged 22),11,0, Boca Juniors
+89,Group A,Uruguay,3MF,Cristian Rodríguez,No,(1985-09-30)30 September 1985 (aged 32),104,11, Peñarol
+90,Group A,Uruguay,3MF,Carlos Sánchez,No,(1984-12-02)2 December 1984 (aged 33),35,1, Monterrey
+91,Group A,Uruguay,3MF,Lucas Torreira,No,(1996-02-11)11 February 1996 (aged 22),2,0, Sampdoria
+92,Group A,Uruguay,3MF,Matías Vecino,No,(1991-08-24)24 August 1991 (aged 26),21,1, Internazionale
+93,Group A,Uruguay,4FW,Edinson Cavani,No,(1987-02-14)14 February 1987 (aged 31),100,42, Paris Saint-Germain
+94,Group A,Uruguay,4FW,Maxi Gómez,No,(1996-08-14)14 August 1996 (aged 21),4,0, Celta Vigo
+95,Group A,Uruguay,4FW,Cristhian Stuani,No,(1986-12-10)10 December 1986 (aged 31),40,5, Girona
+96,Group A,Uruguay,4FW,Luis Suárez,No,(1987-01-24)24 January 1987 (aged 31),97,50, Barcelona
+97,Group A,Uruguay,4FW,Jonathan Urretaviscaya,No,(1990-03-19)19 March 1990 (aged 28),4,0, Monterrey
+98,Group B,Iran,1GK,Alireza Beiranvand,No,(1992-09-21)21 September 1992 (aged 25),21,0, Persepolis
+99,Group B,Iran,1GK,Mohammad Rashid Mazaheri,No,(1989-05-18)18 May 1989 (aged 29),3,0, Zob Ahan Esfahan
+100,Group B,Iran,1GK,Amir Abedzadeh,No,(1993-04-26)26 April 1993 (aged 25),1,0, Marítimo
+101,Group B,Iran,2DF,Pejman Montazeri,No,(1983-09-06)6 September 1983 (aged 34),46,1, Esteghlal
+102,Group B,Iran,2DF,Ramin Rezaeian,No,(1990-03-21)21 March 1990 (aged 28),27,2, Oostende
+103,Group B,Iran,2DF,Morteza Pouraliganji,No,(1992-04-19)19 April 1992 (aged 26),26,2, Al-Sadd
+104,Group B,Iran,2DF,Milad Mohammadi,No,(1993-09-29)29 September 1993 (aged 24),18,0, Akhmat Grozny
+105,Group B,Iran,2DF,Mohammad Reza Khanzadeh,No,(1991-05-11)11 May 1991 (aged 27),11,1, Padideh
+106,Group B,Iran,2DF,Rouzbeh Cheshmi,No,(1993-07-24)24 July 1993 (aged 24),9,1, Esteghlal
+107,Group B,Iran,2DF,Majid Hosseini,No,(1996-06-20)20 June 1996 (aged 21),1,0, Esteghlal
+108,Group B,Iran,3MF,Ehsan Hajsafi,No,(1990-02-25)25 February 1990 (aged 28),93,6, Olympiacos
+109,Group B,Iran,3MF,Masoud Shojaei,Si,(1984-06-09)9 June 1984 (aged 34),73,8, AEK Athens
+110,Group B,Iran,3MF,Ashkan Dejagah,No,(1986-06-05)5 June 1986 (aged 32),45,9, Nottingham Forest
+111,Group B,Iran,3MF,Vahid Amiri,No,(1988-04-02)2 April 1988 (aged 30),35,1, Persepolis
+112,Group B,Iran,3MF,Omid Ebrahimi,No,(1987-09-16)16 September 1987 (aged 30),29,0, Esteghlal
+113,Group B,Iran,3MF,Saeid Ezatolahi,No,(1996-10-01)1 October 1996 (aged 21),25,1, Amkar Perm
+114,Group B,Iran,3MF,Mehdi Torabi,No,(1994-09-10)10 September 1994 (aged 23),16,4, Saipa
+115,Group B,Iran,3MF,Saman Ghoddos,No,(1993-09-06)6 September 1993 (aged 24),7,1, Östersund
+116,Group B,Iran,3MF,Ali Gholizadeh,No,(1996-03-10)10 March 1996 (aged 22),2,2, Saipa
+117,Group B,Iran,4FW,Karim Ansarifard,No,(1990-04-03)3 April 1990 (aged 28),63,16, Olympiacos
+118,Group B,Iran,4FW,Reza Ghoochannejhad,No,(1987-09-20)20 September 1987 (aged 30),42,17, Heerenveen
+119,Group B,Iran,4FW,Alireza Jahanbakhsh,No,(1993-08-11)11 August 1993 (aged 24),37,4, AZ
+120,Group B,Iran,4FW,Sardar Azmoun,No,(1995-01-01)1 January 1995 (aged 23),32,23, Rubin Kazan
+121,Group B,Iran,4FW,Mehdi Taremi,No,(1992-07-18)18 July 1992 (aged 25),25,11, Al-Gharafa
+122,Group B,Morocco,1GK,Munir Mohamedi,No,(1989-05-10)10 May 1989 (aged 29),26,0, Numancia
+123,Group B,Morocco,1GK,Yassine Bounou,No,(1991-04-05)5 April 1991 (aged 27),10,0, Girona
+124,Group B,Morocco,1GK,Ahmed Reda Tagnaouti,No,(1996-04-05)5 April 1996 (aged 22),2,0, IR Tanger
+125,Group B,Morocco,2DF,Medhi Benatia,Si,(1987-04-17)17 April 1987 (aged 31),55,2, Juventus
+126,Group B,Morocco,2DF,Nabil Dirar,No,(1986-02-25)25 February 1986 (aged 32),34,3, Fenerbahçe
+127,Group B,Morocco,2DF,Manuel da Costa,No,(1986-05-06)6 May 1986 (aged 32),26,1, İstanbul Başakşehir
+128,Group B,Morocco,2DF,Romain Saïss,No,(1990-03-26)26 March 1990 (aged 28),22,1, Wolverhampton Wanderers
+129,Group B,Morocco,2DF,Hamza Mendyl,No,(1997-10-21)21 October 1997 (aged 20),12,0, Lille
+130,Group B,Morocco,2DF,Badr Banoun,No,(1993-09-30)30 September 1993 (aged 24),9,1, Raja Casablanca
+131,Group B,Morocco,2DF,Achraf Hakimi,No,(1998-11-04)4 November 1998 (aged 19),8,1, Real Madrid
+132,Group B,Morocco,3MF,Mbark Boussoufa,No,(1984-08-15)15 August 1984 (aged 33),57,7, Al-Jazira
+133,Group B,Morocco,3MF,Karim El Ahmadi,No,(1985-01-27)27 January 1985 (aged 33),49,1, Feyenoord
+134,Group B,Morocco,3MF,Younès Belhanda,No,(1990-02-25)25 February 1990 (aged 28),45,3, Galatasaray
+135,Group B,Morocco,3MF,Nordin Amrabat,No,(1987-03-31)31 March 1987 (aged 31),42,4, Leganés
+136,Group B,Morocco,3MF,Fayçal Fajr,No,(1988-08-01)1 August 1988 (aged 29),22,2, Getafe
+137,Group B,Morocco,3MF,Hakim Ziyech,No,(1993-03-19)19 March 1993 (aged 25),16,8, Ajax
+138,Group B,Morocco,3MF,Youssef Aït Bennasser,No,(1996-07-07)7 July 1996 (aged 21),12,0, Caen
+139,Group B,Morocco,3MF,Mehdi Carcela,No,(1989-07-01)1 July 1989 (aged 28),19,1, Standard Liège
+140,Group B,Morocco,3MF,Sofyan Amrabat,No,(1996-08-21)21 August 1996 (aged 21),5,0, Feyenoord
+141,Group B,Morocco,3MF,Amine Harit,No,(1997-06-18)18 June 1997 (aged 20),4,0, Schalke 04
+142,Group B,Morocco,4FW,Khalid Boutaïb,No,(1987-04-24)24 April 1987 (aged 31),16,7, Yeni Malatyaspor
+143,Group B,Morocco,4FW,Aziz Bouhaddouz,No,(1987-01-29)29 January 1987 (aged 31),14,3, FC St. Pauli
+144,Group B,Morocco,4FW,Ayoub El Kaabi,No,(1993-06-26)26 June 1993 (aged 24),8,10, RS Berkane
+145,Group B,Portugal,1GK,Rui Patrício,No,(1988-02-15)15 February 1988 (aged 30),68,0, Sporting CP
+146,Group B,Portugal,2DF,Bruno Alves,No,(1981-11-27)27 November 1981 (aged 36),95,11, Rangers
+147,Group B,Portugal,2DF,Pepe,No,(1983-02-26)26 February 1983 (aged 35),94,5, Beşiktaş
+148,Group B,Portugal,3MF,Manuel Fernandes,No,(1986-02-05)5 February 1986 (aged 32),14,3, Lokomotiv Moscow
+149,Group B,Portugal,2DF,Raphaël Guerreiro,No,(1993-12-22)22 December 1993 (aged 24),23,2, Borussia Dortmund
+150,Group B,Portugal,2DF,José Fonte,No,(1983-12-22)22 December 1983 (aged 34),30,0, Dalian Yifang
+151,Group B,Portugal,4FW,Cristiano Ronaldo,Si,(1985-02-05)5 February 1985 (aged 33),149,81, Real Madrid
+152,Group B,Portugal,3MF,João Moutinho,No,(1986-09-08)8 September 1986 (aged 31),109,7, Monaco
+153,Group B,Portugal,4FW,André Silva,No,(1995-11-06)6 November 1995 (aged 22),22,12, Milan
+154,Group B,Portugal,3MF,João Mário,No,(1993-01-19)19 January 1993 (aged 25),35,2, West Ham United
+155,Group B,Portugal,4FW,Bernardo Silva,No,(1994-08-10)10 August 1994 (aged 23),24,2, Manchester City
+156,Group B,Portugal,1GK,Anthony Lopes,No,(1990-10-01)1 October 1990 (aged 27),7,0, Lyon
+157,Group B,Portugal,2DF,Rúben Dias,No,(1997-05-14)14 May 1997 (aged 21),1,0, Benfica
+158,Group B,Portugal,3MF,William Carvalho,No,(1992-04-07)7 April 1992 (aged 26),42,2, Sporting CP
+159,Group B,Portugal,2DF,Ricardo Pereira,No,(1993-10-06)6 October 1993 (aged 24),4,0, Porto
+160,Group B,Portugal,3MF,Bruno Fernandes,No,(1994-09-08)8 September 1994 (aged 23),5,0, Sporting CP
+161,Group B,Portugal,4FW,Gonçalo Guedes,No,(1996-11-29)29 November 1996 (aged 21),9,1, Valencia
+162,Group B,Portugal,4FW,Gelson Martins,No,(1995-05-11)11 May 1995 (aged 23),18,0, Sporting CP
+163,Group B,Portugal,2DF,Mário Rui,No,(1991-05-27)27 May 1991 (aged 27),3,0, Napoli
+164,Group B,Portugal,4FW,Ricardo Quaresma,No,(1983-09-26)26 September 1983 (aged 34),76,9, Beşiktaş
+165,Group B,Portugal,2DF,Cédric,No,(1991-08-31)31 August 1991 (aged 26),28,1, Southampton
+166,Group B,Portugal,1GK,Beto,No,(1982-06-01)1 June 1982 (aged 36),14,0, Göztepe
+167,Group B,Portugal,3MF,Adrien Silva,No,(1989-03-15)15 March 1989 (aged 29),22,1, Leicester City
+168,Group B,Spain,1GK,Kepa Arrizabalaga,No,(1994-10-03)3 October 1994 (aged 23),1,0, Athletic Bilbao
+169,Group B,Spain,1GK,David de Gea,No,(1990-11-07)7 November 1990 (aged 27),28,0, Manchester United
+170,Group B,Spain,1GK,Pepe Reina,No,(1982-08-31)31 August 1982 (aged 35),36,0, Napoli
+171,Group B,Spain,2DF,Jordi Alba,No,(1989-03-21)21 March 1989 (aged 29),61,8, Barcelona
+172,Group B,Spain,2DF,César Azpilicueta,No,(1989-08-28)28 August 1989 (aged 28),22,0, Chelsea
+173,Group B,Spain,2DF,Dani Carvajal,No,(1992-01-11)11 January 1992 (aged 26),15,0, Real Madrid
+174,Group B,Spain,2DF,Nacho Monreal,No,(1986-02-26)26 February 1986 (aged 32),22,1, Arsenal
+175,Group B,Spain,2DF,Nacho,No,(1990-01-18)18 January 1990 (aged 28),16,0, Real Madrid
+176,Group B,Spain,2DF,Álvaro Odriozola,No,(1995-12-14)14 December 1995 (aged 22),3,1, Real Sociedad
+177,Group B,Spain,2DF,Gerard Piqué,No,(1987-02-02)2 February 1987 (aged 31),97,5, Barcelona
+178,Group B,Spain,2DF,Sergio Ramos,Si,(1986-03-30)30 March 1986 (aged 32),151,13, Real Madrid
+179,Group B,Spain,3MF,Marco Asensio,No,(1996-01-21)21 January 1996 (aged 22),11,0, Real Madrid
+180,Group B,Spain,3MF,Sergio Busquets,No,(1988-07-16)16 July 1988 (aged 29),102,2, Barcelona
+181,Group B,Spain,3MF,Andrés Iniesta,No,(1984-05-11)11 May 1984 (aged 34),126,14, Barcelona
+182,Group B,Spain,3MF,Isco,No,(1992-04-21)21 April 1992 (aged 26),27,10, Real Madrid
+183,Group B,Spain,3MF,Koke,No,(1992-01-08)8 January 1992 (aged 26),39,0, Atlético Madrid
+184,Group B,Spain,3MF,Saúl,No,(1994-11-21)21 November 1994 (aged 23),10,0, Atlético Madrid
+185,Group B,Spain,3MF,David Silva,No,(1986-01-08)8 January 1986 (aged 32),120,35, Manchester City
+186,Group B,Spain,3MF,Thiago,No,(1991-04-11)11 April 1991 (aged 27),28,2, Bayern Munich
+187,Group B,Spain,4FW,Iago Aspas,No,(1987-08-01)1 August 1987 (aged 30),9,4, Celta Vigo
+188,Group B,Spain,4FW,Diego Costa,No,(1988-10-07)7 October 1988 (aged 29),19,7, Atlético Madrid
+189,Group B,Spain,4FW,Rodrigo,No,(1991-03-06)6 March 1991 (aged 27),5,2, Valencia
+190,Group B,Spain,4FW,Lucas Vázquez,No,(1991-07-01)1 July 1991 (aged 26),6,0, Real Madrid
+191,Group C,Australia,1GK,Brad Jones,No,(1982-03-19)19 March 1982 (aged 36),5,0, Feyenoord
+192,Group C,Australia,1GK,Mathew Ryan,No,(1992-04-08)8 April 1992 (aged 26),43,0, Brighton & Hove Albion
+193,Group C,Australia,1GK,Danny Vukovic,No,(1985-03-27)27 March 1985 (aged 33),1,0, Genk
+194,Group C,Australia,2DF,Aziz Behich,No,(1990-10-16)16 October 1990 (aged 27),22,2, Bursaspor
+195,Group C,Australia,2DF,Milos Degenek,No,(1994-04-28)28 April 1994 (aged 24),18,0, Yokohama F. Marinos
+196,Group C,Australia,2DF,Matthew Jurman,No,(1989-12-08)8 December 1989 (aged 28),4,0, Suwon Samsung Bluewings
+197,Group C,Australia,2DF,James Meredith,No,(1988-04-04)4 April 1988 (aged 30),2,0, Millwall
+198,Group C,Australia,2DF,Josh Risdon,No,(1992-07-27)27 July 1992 (aged 25),7,0, Western Sydney Wanderers
+199,Group C,Australia,2DF,Trent Sainsbury,No,(1992-01-05)5 January 1992 (aged 26),34,3, Grasshoppers
+200,Group C,Australia,3MF,Jackson Irvine,No,(1993-03-07)7 March 1993 (aged 25),18,2, Hull City
+201,Group C,Australia,3MF,Mile Jedinak,Si,(1984-08-03)3 August 1984 (aged 33),75,18, Aston Villa
+202,Group C,Australia,3MF,Robbie Kruse,No,(1988-10-05)5 October 1988 (aged 29),63,5, VfL Bochum
+203,Group C,Australia,3MF,Massimo Luongo,No,(1992-09-25)25 September 1992 (aged 25),35,5, Queens Park Rangers
+204,Group C,Australia,3MF,Mark Milligan,No,(1985-08-04)4 August 1985 (aged 32),70,6, Al-Ahli
+205,Group C,Australia,3MF,Aaron Mooy,No,(1990-09-15)15 September 1990 (aged 27),33,5, Huddersfield Town
+206,Group C,Australia,3MF,Tom Rogic,No,(1992-12-16)16 December 1992 (aged 25),36,7, Celtic
+207,Group C,Australia,4FW,Daniel Arzani,No,(1999-01-04)4 January 1999 (aged 19),1,0, Melbourne City
+208,Group C,Australia,4FW,Tim Cahill,No,(1979-12-06)6 December 1979 (aged 38),105,50, Millwall
+209,Group C,Australia,4FW,Tomi Juric,No,(1991-07-22)22 July 1991 (aged 26),34,8, Luzern
+210,Group C,Australia,4FW,Mathew Leckie,No,(1991-02-04)4 February 1991 (aged 27),52,8, Hertha BSC
+211,Group C,Australia,4FW,Jamie Maclaren,No,(1993-07-29)29 July 1993 (aged 24),6,0, Hibernian
+212,Group C,Australia,4FW,Andrew Nabbout,No,(1992-12-17)17 December 1992 (aged 25),3,1, Urawa Red Diamonds
+213,Group C,Australia,4FW,Dimitri Petratos,No,(1992-11-10)10 November 1992 (aged 25),2,0, Newcastle Jets
+214,Group C,Denmark,1GK,Jonas Lössl,No,(1989-02-01)1 February 1989 (aged 29),1,0, Huddersfield Town
+215,Group C,Denmark,1GK,Frederik Rønnow,No,(1992-08-04)4 August 1992 (aged 25),6,0, Brøndby
+216,Group C,Denmark,1GK,Kasper Schmeichel,No,(1986-11-05)5 November 1986 (aged 31),34,0, Leicester City
+217,Group C,Denmark,2DF,Andreas Christensen,No,(1996-04-10)10 April 1996 (aged 22),15,1, Chelsea
+218,Group C,Denmark,2DF,Henrik Dalsgaard,No,(1989-07-27)27 July 1989 (aged 28),10,0, Brentford
+219,Group C,Denmark,2DF,Mathias Jørgensen,No,(1990-04-23)23 April 1990 (aged 28),12,0, Huddersfield Town
+220,Group C,Denmark,2DF,Simon Kjær,Si,(1989-03-26)26 March 1989 (aged 29),77,3, Sevilla
+221,Group C,Denmark,2DF,Jonas Knudsen,No,(1992-09-16)16 September 1992 (aged 25),3,0, Ipswich Town
+222,Group C,Denmark,2DF,Jens Stryger Larsen,No,(1991-02-21)21 February 1991 (aged 27),12,1, Udinese
+223,Group C,Denmark,2DF,Jannik Vestergaard,No,(1992-08-03)3 August 1992 (aged 25),16,1, Borussia Mönchengladbach
+224,Group C,Denmark,3MF,Thomas Delaney,No,(1991-09-03)3 September 1991 (aged 26),26,4, Werder Bremen
+225,Group C,Denmark,3MF,Christian Eriksen,No,(1992-02-14)14 February 1992 (aged 26),77,21, Tottenham Hotspur
+226,Group C,Denmark,3MF,Michael Krohn-Dehli,No,(1983-06-06)6 June 1983 (aged 35),58,6, Deportivo La Coruña
+227,Group C,Denmark,3MF,William Kvist,No,(1985-02-24)24 February 1985 (aged 33),79,2, Copenhagen
+228,Group C,Denmark,3MF,Lukas Lerager,No,(1993-07-12)12 July 1993 (aged 24),3,0, Bordeaux
+229,Group C,Denmark,3MF,Lasse Schöne,No,(1986-05-27)27 May 1986 (aged 32),35,3, Ajax
+230,Group C,Denmark,4FW,Martin Braithwaite,No,(1991-06-05)5 June 1991 (aged 27),19,1, Bordeaux
+231,Group C,Denmark,4FW,Andreas Cornelius,No,(1993-03-16)16 March 1993 (aged 25),18,4, Atalanta
+232,Group C,Denmark,4FW,Kasper Dolberg,No,(1997-10-06)6 October 1997 (aged 20),5,1, Ajax
+233,Group C,Denmark,4FW,Viktor Fischer,No,(1994-06-09)9 June 1994 (aged 24),18,3, Copenhagen
+234,Group C,Denmark,4FW,Nicolai Jørgensen,No,(1991-01-15)15 January 1991 (aged 27),30,8, Feyenoord
+235,Group C,Denmark,4FW,Yussuf Poulsen,No,(1994-06-15)15 June 1994 (aged 23),27,3, RB Leipzig
+236,Group C,Denmark,4FW,Pione Sisto,No,(1995-02-04)4 February 1995 (aged 23),13,1, Celta Vigo
+237,Group C,France,1GK,Hugo Lloris,Si,(1986-12-26)26 December 1986 (aged 31),97,0, Tottenham Hotspur
+238,Group C,France,2DF,Benjamin Pavard,No,(1996-03-28)28 March 1996 (aged 22),5,0, VfB Stuttgart
+239,Group C,France,2DF,Presnel Kimpembe,No,(1995-08-13)13 August 1995 (aged 22),2,0, Paris Saint-Germain
+240,Group C,France,2DF,Raphaël Varane,No,(1993-04-25)25 April 1993 (aged 25),41,2, Real Madrid
+241,Group C,France,2DF,Samuel Umtiti,No,(1993-11-14)14 November 1993 (aged 24),18,2, Barcelona
+242,Group C,France,3MF,Paul Pogba,No,(1993-03-15)15 March 1993 (aged 25),53,9, Manchester United
+243,Group C,France,4FW,Antoine Griezmann,No,(1991-03-21)21 March 1991 (aged 27),53,20, Atlético Madrid
+244,Group C,France,4FW,Thomas Lemar,No,(1995-11-12)12 November 1995 (aged 22),11,3, Monaco
+245,Group C,France,4FW,Olivier Giroud,No,(1986-09-30)30 September 1986 (aged 31),73,31, Chelsea
+246,Group C,France,4FW,Kylian Mbappé,No,(1998-12-20)20 December 1998 (aged 19),14,3, Paris Saint-Germain
+247,Group C,France,4FW,Ousmane Dembélé,No,(1997-05-15)15 May 1997 (aged 21),11,2, Barcelona
+248,Group C,France,3MF,Corentin Tolisso,No,(1994-08-03)3 August 1994 (aged 23),8,0, Bayern Munich
+249,Group C,France,3MF,N'Golo Kanté,No,(1991-03-29)29 March 1991 (aged 27),23,1, Chelsea
+250,Group C,France,3MF,Blaise Matuidi,No,(1987-04-09)9 April 1987 (aged 31),66,9, Juventus
+251,Group C,France,3MF,Steven Nzonzi,No,(1988-12-15)15 December 1988 (aged 29),4,0, Sevilla
+252,Group C,France,1GK,Steve Mandanda,No,(1985-03-28)28 March 1985 (aged 33),27,0, Marseille
+253,Group C,France,2DF,Adil Rami,No,(1985-12-27)27 December 1985 (aged 32),35,1, Marseille
+254,Group C,France,4FW,Nabil Fekir,No,(1993-07-18)18 July 1993 (aged 24),11,2, Lyon
+255,Group C,France,2DF,Djibril Sidibé,No,(1992-07-29)29 July 1992 (aged 25),16,1, Monaco
+256,Group C,France,4FW,Florian Thauvin,No,(1993-01-26)26 January 1993 (aged 25),4,0, Marseille
+257,Group C,France,2DF,Lucas Hernández,No,(1996-02-14)14 February 1996 (aged 22),4,0, Atlético Madrid
+258,Group C,France,2DF,Benjamin Mendy,No,(1994-07-17)17 July 1994 (aged 23),6,0, Manchester City
+259,Group C,France,1GK,Alphonse Areola,No,(1993-02-27)27 February 1993 (aged 25),0,0, Paris Saint-Germain
+260,Group C,Peru,1GK,Pedro Gallese,No,(1990-04-23)23 April 1990 (aged 28),37,0, Veracruz
+261,Group C,Peru,1GK,José Carvallo,No,(1986-03-01)1 March 1986 (aged 32),6,0, UTC
+262,Group C,Peru,1GK,Carlos Cáceda,No,(1991-09-27)27 September 1991 (aged 26),4,0, Deportivo Municipal
+263,Group C,Peru,2DF,Luis Advíncula,No,(1990-03-02)2 March 1990 (aged 28),64,0, Lobos BUAP
+264,Group C,Peru,2DF,Miguel Araujo,No,(1994-10-24)24 October 1994 (aged 23),7,0, Alianza Lima
+265,Group C,Peru,2DF,Aldo Corzo,No,(1989-05-20)20 May 1989 (aged 29),25,0, Universitario
+266,Group C,Peru,2DF,Nilson Loyola,No,(1994-10-26)26 October 1994 (aged 23),3,0, Melgar
+267,Group C,Peru,2DF,Christian Ramos,No,(1988-11-04)4 November 1988 (aged 29),65,3, Veracruz
+268,Group C,Peru,2DF,Alberto Rodríguez,No,(1984-05-31)31 May 1984 (aged 34),58,0, Atlético Junior
+269,Group C,Peru,2DF,Anderson Santamaría,No,(1992-01-10)10 January 1992 (aged 26),3,0, Puebla
+270,Group C,Peru,2DF,Miguel Trauco,No,(1992-08-25)25 August 1992 (aged 25),26,0, Flamengo
+271,Group C,Peru,3MF,Pedro Aquino,No,(1995-04-13)13 April 1995 (aged 23),12,0, Lobos BUAP
+272,Group C,Peru,3MF,André Carrillo,No,(1991-06-14)14 June 1991 (aged 27),44,5, Watford
+273,Group C,Peru,3MF,Wilder Cartagena,No,(1994-09-23)23 September 1994 (aged 23),3,0, Veracruz
+274,Group C,Peru,3MF,Christian Cueva,No,(1991-11-23)23 November 1991 (aged 26),43,8, São Paulo
+275,Group C,Peru,3MF,Edison Flores,No,(1994-05-14)14 May 1994 (aged 24),28,9, AaB
+276,Group C,Peru,3MF,Paolo Hurtado,No,(1990-07-27)27 July 1990 (aged 27),31,3, Vitória de Guimarães
+277,Group C,Peru,3MF,Sergio Peña,No,(1995-09-28)28 September 1995 (aged 22),6,0, Granada
+278,Group C,Peru,3MF,Andy Polo,No,(1994-09-29)29 September 1994 (aged 23),16,1, Portland Timbers
+279,Group C,Peru,3MF,Renato Tapia,No,(1995-07-28)28 July 1995 (aged 22),22,1, Feyenoord
+280,Group C,Peru,3MF,Yoshimar Yotún,No,(1990-04-07)7 April 1990 (aged 28),72,2, Orlando City
+281,Group C,Peru,4FW,Jefferson Farfán,No,(1984-10-26)26 October 1984 (aged 33),83,25, Lokomotiv Moscow
+282,Group C,Peru,4FW,Paolo Guerrero,Si,(1984-01-01)1 January 1984 (aged 34),87,34, Flamengo
+283,Group C,Peru,4FW,Raúl Ruidíaz,No,(1990-07-25)25 July 1990 (aged 27),30,4, Morelia
+284,Group D,Argentina,1GK,Nahuel Guzmán,No,(1986-02-10)10 February 1986 (aged 32),6,0, UANL
+285,Group D,Argentina,2DF,Gabriel Mercado,No,(1987-03-18)18 March 1987 (aged 31),20,3, Sevilla
+286,Group D,Argentina,2DF,Nicolás Tagliafico,No,(1992-08-31)31 August 1992 (aged 25),4,0, Ajax
+287,Group D,Argentina,2DF,Cristian Ansaldi,No,(1986-09-20)20 September 1986 (aged 31),5,0, Torino
+288,Group D,Argentina,3MF,Lucas Biglia,No,(1986-01-30)30 January 1986 (aged 32),36,1, Milan
+289,Group D,Argentina,2DF,Federico Fazio,No,(1987-01-30)30 January 1987 (aged 31),9,1, Roma
+290,Group D,Argentina,3MF,Éver Banega,No,(1988-06-29)29 June 1988 (aged 29),62,6, Sevilla
+291,Group D,Argentina,3MF,Marcos Acuña,No,(1991-10-28)28 October 1991 (aged 26),10,0, Sporting CP
+292,Group D,Argentina,4FW,Gonzalo Higuaín,No,(1987-12-10)10 December 1987 (aged 30),71,31, Juventus
+293,Group D,Argentina,4FW,Lionel Messi,Si,(1987-06-24)24 June 1987 (aged 30),124,64, Barcelona
+294,Group D,Argentina,3MF,Ángel Di María,No,(1988-05-21)21 May 1988 (aged 30),94,19, Paris Saint-Germain
+295,Group D,Argentina,1GK,Franco Armani,No,(1986-10-16)16 October 1986 (aged 31),0,0, River Plate
+296,Group D,Argentina,3MF,Maximiliano Meza,No,(1992-01-15)15 January 1992 (aged 26),2,0, Independiente
+297,Group D,Argentina,3MF,Javier Mascherano,No,(1984-06-08)8 June 1984 (aged 34),143,3, Hebei China Fortune
+298,Group D,Argentina,3MF,Manuel Lanzini,No,(1993-02-13)13 February 1993 (aged 25),4,1, West Ham United
+299,Group D,Argentina,2DF,Marcos Rojo,No,(1990-11-28)28 November 1990 (aged 27),56,2, Manchester United
+300,Group D,Argentina,2DF,Nicolás Otamendi,No,(1988-07-05)5 July 1988 (aged 29),54,4, Manchester City
+301,Group D,Argentina,3MF,Eduardo Salvio,No,(1990-07-13)13 July 1990 (aged 27),9,0, Benfica
+302,Group D,Argentina,4FW,Sergio Agüero,No,(1988-06-02)2 June 1988 (aged 30),85,37, Manchester City
+303,Group D,Argentina,3MF,Giovani Lo Celso,No,(1996-04-09)9 April 1996 (aged 22),5,0, Paris Saint-Germain
+304,Group D,Argentina,4FW,Paulo Dybala,No,(1993-11-15)15 November 1993 (aged 24),12,0, Juventus
+305,Group D,Argentina,3MF,Cristian Pavón,No,(1996-01-21)21 January 1996 (aged 22),5,0, Boca Juniors
+306,Group D,Argentina,1GK,Willy Caballero,No,(1981-09-28)28 September 1981 (aged 36),3,0, Chelsea
+307,Group D,Croatia,1GK,Danijel Subašić,No,(1984-10-27)27 October 1984 (aged 33),37,0, Monaco
+308,Group D,Croatia,1GK,Lovre Kalinić,No,(1990-04-03)3 April 1990 (aged 28),10,0, Gent
+309,Group D,Croatia,1GK,Dominik Livaković,No,(1995-01-09)9 January 1995 (aged 23),1,0, Dinamo Zagreb
+310,Group D,Croatia,2DF,Vedran Ćorluka,No,(1986-02-05)5 February 1986 (aged 32),98,4, Lokomotiv Moscow
+311,Group D,Croatia,2DF,Domagoj Vida,No,(1989-04-29)29 April 1989 (aged 29),58,2, Beşiktaş
+312,Group D,Croatia,2DF,Ivan Strinić,No,(1987-07-17)17 July 1987 (aged 30),42,0, Sampdoria
+313,Group D,Croatia,2DF,Dejan Lovren,No,(1989-07-05)5 July 1989 (aged 28),38,2, Liverpool
+314,Group D,Croatia,2DF,Šime Vrsaljko,No,(1992-01-10)10 January 1992 (aged 26),35,0, Atlético Madrid
+315,Group D,Croatia,2DF,Josip Pivarić,No,(1989-01-30)30 January 1989 (aged 29),19,0, Dynamo Kyiv
+316,Group D,Croatia,2DF,Tin Jedvaj,No,(1995-11-28)28 November 1995 (aged 22),11,0, Bayer Leverkusen
+317,Group D,Croatia,2DF,Matej Mitrović,No,(1993-11-10)10 November 1993 (aged 24),9,1, Club Brugge
+318,Group D,Croatia,2DF,Duje Ćaleta-Car,No,(1996-09-17)17 September 1996 (aged 21),1,0, Red Bull Salzburg
+319,Group D,Croatia,3MF,Luka Modrić,Si,(1985-09-09)9 September 1985 (aged 32),105,12, Real Madrid
+320,Group D,Croatia,3MF,Ivan Rakitić,No,(1988-03-10)10 March 1988 (aged 30),91,14, Barcelona
+321,Group D,Croatia,3MF,Mateo Kovačić,No,(1994-05-06)6 May 1994 (aged 24),40,1, Real Madrid
+322,Group D,Croatia,3MF,Milan Badelj,No,(1989-02-25)25 February 1989 (aged 29),37,1, Fiorentina
+323,Group D,Croatia,3MF,Marcelo Brozović,No,(1992-11-16)16 November 1992 (aged 25),34,6, Internazionale
+324,Group D,Croatia,3MF,Filip Bradarić,No,(1992-01-11)11 January 1992 (aged 26),4,0, Rijeka
+325,Group D,Croatia,4FW,Mario Mandžukić,No,(1986-05-21)21 May 1986 (aged 32),82,30, Juventus
+326,Group D,Croatia,4FW,Ivan Perišić,No,(1989-02-02)2 February 1989 (aged 29),65,17, Internazionale
+327,Group D,Croatia,4FW,Nikola Kalinić,No,(1988-01-05)5 January 1988 (aged 30),41,15, Milan
+328,Group D,Croatia,4FW,Andrej Kramarić,No,(1991-06-19)19 June 1991 (aged 26),30,8, 1899 Hoffenheim
+329,Group D,Croatia,4FW,Marko Pjaca,No,(1995-05-06)6 May 1995 (aged 23),16,1, Schalke 04
+330,Group D,Croatia,4FW,Ante Rebić,No,(1993-09-21)21 September 1993 (aged 24),15,1, Eintracht Frankfurt
+331,Group D,Iceland,1GK,Hannes Þór Halldórsson,No,(1984-04-27)27 April 1984 (aged 34),48,0, Randers
+332,Group D,Iceland,2DF,Birkir Már Sævarsson,No,(1984-11-11)11 November 1984 (aged 33),79,1, Valur
+333,Group D,Iceland,2DF,Samúel Friðjónsson,No,(1996-02-22)22 February 1996 (aged 22),4,0, Vålerenga
+334,Group D,Iceland,4FW,Albert Guðmundsson,No,(1997-06-15)15 June 1997 (aged 20),5,3, PSV Eindhoven
+335,Group D,Iceland,2DF,Sverrir Ingi Ingason,No,(1993-08-05)5 August 1993 (aged 24),19,3, Rostov
+336,Group D,Iceland,2DF,Ragnar Sigurðsson,No,(1986-06-19)19 June 1986 (aged 31),76,3, Rostov
+337,Group D,Iceland,3MF,Jóhann Berg Guðmundsson,No,(1990-10-27)27 October 1990 (aged 27),66,7, Burnley
+338,Group D,Iceland,3MF,Birkir Bjarnason,No,(1988-05-27)27 May 1988 (aged 30),66,9, Aston Villa
+339,Group D,Iceland,4FW,Björn Bergmann Sigurðarson,No,(1991-02-26)26 February 1991 (aged 27),11,1, Rostov
+340,Group D,Iceland,3MF,Gylfi Sigurðsson,No,(1989-09-08)8 September 1989 (aged 28),56,19, Everton
+341,Group D,Iceland,4FW,Alfreð Finnbogason,No,(1989-02-01)1 February 1989 (aged 29),46,12, FC Augsburg
+342,Group D,Iceland,1GK,Frederik Schram,No,(1995-01-19)19 January 1995 (aged 23),4,0, Roskilde
+343,Group D,Iceland,1GK,Rúnar Alex Rúnarsson,No,(1995-02-18)18 February 1995 (aged 23),3,0, Nordsjælland
+344,Group D,Iceland,2DF,Kári Árnason,No,(1982-10-13)13 October 1982 (aged 35),66,4, Aberdeen
+345,Group D,Iceland,2DF,Hólmar Örn Eyjólfsson,No,(1990-08-06)6 August 1990 (aged 27),9,1, Levski Sofia
+346,Group D,Iceland,3MF,Ólafur Ingi Skúlason,No,(1983-04-01)1 April 1983 (aged 35),35,1, Kardemir Karabükspor
+347,Group D,Iceland,3MF,Aron Gunnarsson,Si,(1989-04-22)22 April 1989 (aged 29),77,2, Cardiff City
+348,Group D,Iceland,2DF,Hörður Björgvin Magnússon,No,(1993-02-11)11 February 1993 (aged 25),16,2, Bristol City
+349,Group D,Iceland,3MF,Rúrik Gíslason,No,(1988-02-25)25 February 1988 (aged 30),46,3, SV Sandhausen
+350,Group D,Iceland,3MF,Emil Hallfreðsson,No,(1984-06-29)29 June 1984 (aged 33),63,1, Udinese
+351,Group D,Iceland,3MF,Arnór Ingvi Traustason,No,(1993-04-30)30 April 1993 (aged 25),18,5, Malmö
+352,Group D,Iceland,4FW,Jón Daði Böðvarsson,No,(1992-05-25)25 May 1992 (aged 26),37,2, Reading
+353,Group D,Iceland,2DF,Ari Freyr Skúlason,No,(1987-05-14)14 May 1987 (aged 31),55,0, Lokeren
+354,Group D,Nigeria,1GK,Daniel Akpeyi,No,(1986-08-03)3 August 1986 (aged 31),7,0, Chippa United
+355,Group D,Nigeria,1GK,Ikechukwu Ezenwa,No,(1988-10-16)16 October 1988 (aged 29),24,0, Enyimba
+356,Group D,Nigeria,1GK,Francis Uzoho,No,(1998-10-28)28 October 1998 (aged 19),5,0, Deportivo Fabril
+357,Group D,Nigeria,2DF,Shehu Abdullahi,No,(1993-03-12)12 March 1993 (aged 25),24,0, Bursaspor
+358,Group D,Nigeria,2DF,Chidozie Awaziem,No,(1997-01-01)1 January 1997 (aged 21),4,0, Nantes
+359,Group D,Nigeria,2DF,Leon Balogun,No,(1988-06-28)28 June 1988 (aged 29),18,0, Mainz 05
+360,Group D,Nigeria,2DF,Tyronne Ebuehi,No,(1995-12-16)16 December 1995 (aged 22),6,0, ADO Den Haag
+361,Group D,Nigeria,2DF,Elderson Echiéjilé,No,(1988-01-20)20 January 1988 (aged 30),61,3, Cercle Brugge
+362,Group D,Nigeria,2DF,Brian Idowu,No,(1992-05-18)18 May 1992 (aged 26),4,1, Amkar Perm
+363,Group D,Nigeria,2DF,Kenneth Omeruo,No,(1993-10-17)17 October 1993 (aged 24),39,0, Kasımpaşa
+364,Group D,Nigeria,2DF,William Troost-Ekong,No,(1993-09-01)1 September 1993 (aged 24),21,1, Bursaspor
+365,Group D,Nigeria,3MF,Oghenekaro Etebo,No,(1995-11-09)9 November 1995 (aged 22),14,1, Las Palmas
+366,Group D,Nigeria,3MF,John Obi Mikel,Si,(1987-04-22)22 April 1987 (aged 31),84,6, Tianjin TEDA
+367,Group D,Nigeria,3MF,Wilfred Ndidi,No,(1996-12-16)16 December 1996 (aged 21),16,0, Leicester City
+368,Group D,Nigeria,3MF,Joel Obi,No,(1991-05-22)22 May 1991 (aged 27),17,0, Torino
+369,Group D,Nigeria,3MF,John Ogu,No,(1988-04-20)20 April 1988 (aged 30),19,2, Hapoel Be'er Sheva
+370,Group D,Nigeria,3MF,Ogenyi Onazi,No,(1992-12-25)25 December 1992 (aged 25),52,1, Trabzonspor
+371,Group D,Nigeria,4FW,Odion Ighalo,No,(1989-06-16)16 June 1989 (aged 28),18,4, Changchun Yatai
+372,Group D,Nigeria,4FW,Kelechi Iheanacho,No,(1996-10-03)3 October 1996 (aged 21),17,8, Leicester City
+373,Group D,Nigeria,4FW,Alex Iwobi,No,(1996-05-03)3 May 1996 (aged 22),18,5, Arsenal
+374,Group D,Nigeria,4FW,Victor Moses,No,(1990-12-12)12 December 1990 (aged 27),33,11, Chelsea
+375,Group D,Nigeria,4FW,Ahmed Musa,No,(1992-10-14)14 October 1992 (aged 25),71,13, CSKA Moscow
+376,Group D,Nigeria,4FW,Simeon Nwankwo,No,(1992-05-07)7 May 1992 (aged 26),1,0, Crotone
+377,Group E,Brazil,1GK,Alisson,No,(1992-10-02)2 October 1992 (aged 25),25,0, Roma
+378,Group E,Brazil,2DF,Thiago Silva,No,(1984-09-22)22 September 1984 (aged 33),70,5, Paris Saint-Germain
+379,Group E,Brazil,2DF,Miranda,No,(1984-09-07)7 September 1984 (aged 33),46,2, Internazionale
+380,Group E,Brazil,2DF,Pedro Geromel,No,(1985-09-21)21 September 1985 (aged 32),2,0, Grêmio
+381,Group E,Brazil,3MF,Casemiro,No,(1992-02-23)23 February 1992 (aged 26),23,0, Real Madrid
+382,Group E,Brazil,2DF,Filipe Luís,No,(1985-08-09)9 August 1985 (aged 32),32,2, Atlético Madrid
+383,Group E,Brazil,4FW,Douglas Costa,No,(1990-09-14)14 September 1990 (aged 27),24,3, Juventus
+384,Group E,Brazil,3MF,Renato Augusto,No,(1988-02-08)8 February 1988 (aged 30),28,5, Beijing Sinobo Guoan
+385,Group E,Brazil,4FW,Gabriel Jesus,No,(1997-04-03)3 April 1997 (aged 21),16,9, Manchester City
+386,Group E,Brazil,4FW,Neymar,No,(1992-02-05)5 February 1992 (aged 26),84,54, Paris Saint-Germain
+387,Group E,Brazil,3MF,Philippe Coutinho,No,(1992-06-12)12 June 1992 (aged 26),36,9, Barcelona
+388,Group E,Brazil,2DF,Marcelo,No,(1988-05-12)12 May 1988 (aged 30),53,6, Real Madrid
+389,Group E,Brazil,2DF,Marquinhos,No,(1994-05-14)14 May 1994 (aged 24),25,0, Paris Saint-Germain
+390,Group E,Brazil,2DF,Danilo,No,(1991-07-15)15 July 1991 (aged 26),17,0, Manchester City
+391,Group E,Brazil,3MF,Paulinho,No,(1988-07-25)25 July 1988 (aged 29),49,12, Barcelona
+392,Group E,Brazil,1GK,Cássio,No,(1987-06-06)6 June 1987 (aged 31),1,0, Corinthians
+393,Group E,Brazil,3MF,Fernandinho,No,(1985-05-04)4 May 1985 (aged 33),43,2, Manchester City
+394,Group E,Brazil,3MF,Fred,No,(1993-03-05)5 March 1993 (aged 25),8,0, Shakhtar Donetsk
+395,Group E,Brazil,3MF,Willian,No,(1988-08-09)9 August 1988 (aged 29),56,8, Chelsea
+396,Group E,Brazil,4FW,Roberto Firmino,No,(1991-10-02)2 October 1991 (aged 26),20,6, Liverpool
+397,Group E,Brazil,4FW,Taison,No,(1988-01-13)13 January 1988 (aged 30),7,1, Shakhtar Donetsk
+398,Group E,Brazil,2DF,Fagner,No,(1989-06-11)11 June 1989 (aged 29),4,0, Corinthians
+399,Group E,Brazil,1GK,Ederson,No,(1993-08-17)17 August 1993 (aged 24),1,0, Manchester City
+400,Group E,Costa Rica,1GK,Keylor Navas,No,(1986-12-15)15 December 1986 (aged 31),79,0, Real Madrid
+401,Group E,Costa Rica,2DF,Johnny Acosta,No,(1983-07-21)21 July 1983 (aged 34),68,2, Águilas Doradas
+402,Group E,Costa Rica,2DF,Giancarlo González,No,(1988-02-08)8 February 1988 (aged 30),68,2, Bologna
+403,Group E,Costa Rica,2DF,Ian Smith,No,(1998-03-06)6 March 1998 (aged 20),2,0, Norrköping
+404,Group E,Costa Rica,3MF,Celso Borges,No,(1988-05-27)27 May 1988 (aged 30),111,21, Deportivo La Coruña
+405,Group E,Costa Rica,2DF,Óscar Duarte,No,(1989-06-03)3 June 1989 (aged 29),38,2, Espanyol
+406,Group E,Costa Rica,3MF,Christian Bolaños,No,(1984-05-30)30 May 1984 (aged 34),79,6, Saprissa
+407,Group E,Costa Rica,2DF,Bryan Oviedo,No,(1990-02-18)18 February 1990 (aged 28),42,1, Sunderland
+408,Group E,Costa Rica,3MF,Daniel Colindres,No,(1985-05-28)28 May 1985 (aged 33),11,0, Saprissa
+409,Group E,Costa Rica,3MF,Bryan Ruiz,Si,(1985-08-18)18 August 1985 (aged 32),109,23, Sporting CP
+410,Group E,Costa Rica,4FW,Johan Venegas,No,(1988-11-27)27 November 1988 (aged 29),45,10, Saprissa
+411,Group E,Costa Rica,4FW,Joel Campbell,No,(1992-06-26)26 June 1992 (aged 25),75,15, Real Betis
+412,Group E,Costa Rica,3MF,Rodney Wallace,No,(1988-06-17)17 June 1988 (aged 29),30,4, New York City FC
+413,Group E,Costa Rica,3MF,Randall Azofeifa,No,(1984-12-30)30 December 1984 (aged 33),57,3, Herediano
+414,Group E,Costa Rica,2DF,Francisco Calvo,No,(1992-07-08)8 July 1992 (aged 25),36,4, Minnesota United
+415,Group E,Costa Rica,2DF,Cristian Gamboa,No,(1989-10-24)24 October 1989 (aged 28),66,3, Celtic
+416,Group E,Costa Rica,3MF,Yeltsin Tejeda,No,(1992-03-17)17 March 1992 (aged 26),49,0, Lausanne
+417,Group E,Costa Rica,1GK,Patrick Pemberton,No,(1982-05-24)24 May 1982 (aged 36),39,0, Alajuelense
+418,Group E,Costa Rica,2DF,Kendall Waston,No,(1988-01-01)1 January 1988 (aged 30),25,3, Vancouver Whitecaps FC
+419,Group E,Costa Rica,3MF,David Guzmán,No,(1990-02-18)18 February 1990 (aged 28),41,0, Portland Timbers
+420,Group E,Costa Rica,4FW,Marco Ureña,No,(1990-03-05)5 March 1990 (aged 28),62,15, Los Angeles FC
+421,Group E,Costa Rica,2DF,Rónald Matarrita,No,(1994-07-09)9 July 1994 (aged 23),22,2, New York City FC
+422,Group E,Costa Rica,1GK,Leonel Moreira,No,(1990-04-02)2 April 1990 (aged 28),9,0, Herediano
+423,Group E,Serbia,1GK,Marko Dmitrović,No,(1992-01-24)24 January 1992 (aged 26),2,0, Eibar
+424,Group E,Serbia,1GK,Predrag Rajković,No,(1995-10-31)31 October 1995 (aged 22),7,0, Maccabi Tel Aviv
+425,Group E,Serbia,1GK,Vladimir Stojković,No,(1983-07-28)28 July 1983 (aged 34),79,0, Partizan
+426,Group E,Serbia,2DF,Branislav Ivanović,No,(1984-02-22)22 February 1984 (aged 34),102,12, Zenit Saint Petersburg
+427,Group E,Serbia,2DF,Aleksandar Kolarov,Si,(1985-11-10)10 November 1985 (aged 32),74,10, Roma
+428,Group E,Serbia,2DF,Nikola Milenković,No,(1997-10-12)12 October 1997 (aged 20),1,0, Fiorentina
+429,Group E,Serbia,2DF,Milan Rodić,No,(1991-04-02)2 April 1991 (aged 27),0,0, Red Star Belgrade
+430,Group E,Serbia,2DF,Antonio Rukavina,No,(1984-01-26)26 January 1984 (aged 34),45,0, Villarreal
+431,Group E,Serbia,2DF,Uroš Spajić,No,(1993-02-13)13 February 1993 (aged 25),5,0, Anderlecht
+432,Group E,Serbia,2DF,Duško Tošić,No,(1985-01-19)19 January 1985 (aged 33),22,1, Beşiktaş
+433,Group E,Serbia,2DF,Miloš Veljković,No,(1995-09-26)26 September 1995 (aged 22),2,0, Werder Bremen
+434,Group E,Serbia,3MF,Marko Grujić,No,(1996-04-13)13 April 1996 (aged 22),6,0, Cardiff City
+435,Group E,Serbia,3MF,Filip Kostić,No,(1992-11-01)1 November 1992 (aged 25),21,2, Hamburger SV
+436,Group E,Serbia,3MF,Adem Ljajić,No,(1991-09-29)29 September 1991 (aged 26),27,5, Torino
+437,Group E,Serbia,3MF,Nemanja Matić,No,(1988-08-01)1 August 1988 (aged 29),38,2, Manchester United
+438,Group E,Serbia,3MF,Sergej Milinković-Savić,No,(1995-02-27)27 February 1995 (aged 23),2,0, Lazio
+439,Group E,Serbia,3MF,Luka Milivojević,No,(1991-04-07)7 April 1991 (aged 27),26,1, Crystal Palace
+440,Group E,Serbia,3MF,Nemanja Radonjić,No,(1996-02-15)15 February 1996 (aged 22),1,0, Red Star Belgrade
+441,Group E,Serbia,3MF,Dušan Tadić,No,(1988-11-20)20 November 1988 (aged 29),51,13, Southampton
+442,Group E,Serbia,3MF,Andrija Živković,No,(1996-07-11)11 July 1996 (aged 21),9,0, Benfica
+443,Group E,Serbia,4FW,Luka Jović,No,(1997-12-23)23 December 1997 (aged 20),0,0, Eintracht Frankfurt
+444,Group E,Serbia,4FW,Aleksandar Mitrović,No,(1994-09-16)16 September 1994 (aged 23),35,13, Fulham
+445,Group E,Serbia,4FW,Aleksandar Prijović,No,(1990-04-21)21 April 1990 (aged 28),8,1, PAOK
+446,Group E,Switzerland,1GK,Yann Sommer,No,(1988-12-17)17 December 1988 (aged 29),35,0, Borussia Mönchengladbach
+447,Group E,Switzerland,1GK,Roman Bürki,No,(1990-11-14)14 November 1990 (aged 27),8,0, Borussia Dortmund
+448,Group E,Switzerland,1GK,Gregor Kobel,No,(1997-12-06)6 December 1997 (aged 20),0,0, 1899 Hoffenheim
+449,Group E,Switzerland,1GK,Yvon Mvogo,No,(1994-06-06)6 June 1994 (aged 24),0,0, RB Leipzig
+450,Group E,Switzerland,2DF,Stephan Lichtsteiner,Si,(1984-01-16)16 January 1984 (aged 34),99,8, Juventus
+451,Group E,Switzerland,2DF,Johan Djourou,No,(1987-01-18)18 January 1987 (aged 31),74,2, Antalyaspor
+452,Group E,Switzerland,2DF,Ricardo Rodríguez,No,(1992-08-25)25 August 1992 (aged 25),52,4, Milan
+453,Group E,Switzerland,2DF,Fabian Schär,No,(1991-12-20)20 December 1991 (aged 26),38,7, Deportivo La Coruña
+454,Group E,Switzerland,2DF,Michael Lang,No,(1991-02-08)8 February 1991 (aged 27),24,2, Basel
+455,Group E,Switzerland,2DF,François Moubandje,No,(1990-06-21)21 June 1990 (aged 27),17,0, Toulouse
+456,Group E,Switzerland,2DF,Silvan Widmer,No,(1993-03-05)5 March 1993 (aged 25),9,0, Udinese
+457,Group E,Switzerland,2DF,Manuel Akanji,No,(1995-07-19)19 July 1995 (aged 22),6,0, Borussia Dortmund
+458,Group E,Switzerland,2DF,Nico Elvedi,No,(1996-09-30)30 September 1996 (aged 21),5,0, Borussia Mönchengladbach
+459,Group E,Switzerland,3MF,Valon Behrami,No,(1985-04-19)19 April 1985 (aged 33),78,2, Udinese
+460,Group E,Switzerland,3MF,Xherdan Shaqiri,No,(1991-10-10)10 October 1991 (aged 26),69,20, Stoke City
+461,Group E,Switzerland,3MF,Gelson Fernandes,No,(1986-09-02)2 September 1986 (aged 31),67,2, Eintracht Frankfurt
+462,Group E,Switzerland,3MF,Blerim Džemaili,No,(1986-04-12)12 April 1986 (aged 32),64,9, Bologna
+463,Group E,Switzerland,3MF,Granit Xhaka,No,(1992-09-27)27 September 1992 (aged 25),61,9, Arsenal
+464,Group E,Switzerland,3MF,Steven Zuber,No,(1991-08-17)17 August 1991 (aged 26),11,3, 1899 Hoffenheim
+465,Group E,Switzerland,3MF,Remo Freuler,No,(1992-04-15)15 April 1992 (aged 26),9,0, Atalanta
+466,Group E,Switzerland,3MF,Denis Zakaria,No,(1996-11-20)20 November 1996 (aged 21),10,0, Borussia Mönchengladbach
+467,Group E,Switzerland,3MF,Edimilson Fernandes,No,(1996-04-15)15 April 1996 (aged 22),3,0, West Ham United
+468,Group E,Switzerland,4FW,Haris Seferović,No,(1992-02-22)22 February 1992 (aged 26),50,11, Benfica
+469,Group E,Switzerland,4FW,Josip Drmić,No,(1992-08-08)8 August 1992 (aged 25),28,9, Borussia Mönchengladbach
+470,Group E,Switzerland,4FW,Breel Embolo,No,(1997-02-14)14 February 1997 (aged 21),24,3, Schalke 04
+471,Group E,Switzerland,4FW,Mario Gavranović,No,(1989-11-24)24 November 1989 (aged 28),13,5, Dinamo Zagreb
+472,Group F,Germany,1GK,Bernd Leno,No,(1992-03-04)4 March 1992 (aged 26),6,0, Bayer Leverkusen
+473,Group F,Germany,1GK,Manuel Neuer,Si,(1986-03-27)27 March 1986 (aged 32),75,0, Bayern Munich
+474,Group F,Germany,1GK,Marc-André ter Stegen,No,(1992-04-30)30 April 1992 (aged 26),19,0, Barcelona
+475,Group F,Germany,1GK,Kevin Trapp,No,(1990-07-08)8 July 1990 (aged 27),3,0, Paris Saint-Germain
+476,Group F,Germany,2DF,Jérôme Boateng,No,(1988-09-03)3 September 1988 (aged 29),70,1, Bayern Munich
+477,Group F,Germany,2DF,Matthias Ginter,No,(1994-01-19)19 January 1994 (aged 24),17,0, Borussia Mönchengladbach
+478,Group F,Germany,2DF,Jonas Hector,No,(1990-05-27)27 May 1990 (aged 28),37,3, 1. FC Köln
+479,Group F,Germany,2DF,Mats Hummels,No,(1988-12-16)16 December 1988 (aged 29),63,5, Bayern Munich
+480,Group F,Germany,2DF,Joshua Kimmich,No,(1995-02-08)8 February 1995 (aged 23),28,3, Bayern Munich
+481,Group F,Germany,2DF,Marvin Plattenhardt,No,(1992-01-26)26 January 1992 (aged 26),6,0, Hertha BSC
+482,Group F,Germany,2DF,Antonio Rüdiger,No,(1993-03-03)3 March 1993 (aged 25),24,1, Chelsea
+483,Group F,Germany,2DF,Niklas Süle,No,(1995-09-03)3 September 1995 (aged 22),10,0, Bayern Munich
+484,Group F,Germany,2DF,Jonathan Tah,No,(1996-02-11)11 February 1996 (aged 22),3,0, Bayer Leverkusen
+485,Group F,Germany,3MF,Julian Brandt,No,(1996-05-02)2 May 1996 (aged 22),15,1, Bayer Leverkusen
+486,Group F,Germany,3MF,Julian Draxler,No,(1993-09-20)20 September 1993 (aged 24),43,6, Paris Saint-Germain
+487,Group F,Germany,3MF,Leon Goretzka,No,(1995-02-06)6 February 1995 (aged 23),15,6, Schalke 04
+488,Group F,Germany,3MF,İlkay Gündoğan,No,(1990-10-24)24 October 1990 (aged 27),25,4, Manchester City
+489,Group F,Germany,3MF,Sami Khedira,No,(1987-04-04)4 April 1987 (aged 31),74,7, Juventus
+490,Group F,Germany,3MF,Toni Kroos,No,(1990-01-04)4 January 1990 (aged 28),82,12, Real Madrid
+491,Group F,Germany,3MF,Mesut Özil,No,(1988-10-15)15 October 1988 (aged 29),90,23, Arsenal
+492,Group F,Germany,3MF,Marco Reus,No,(1989-05-31)31 May 1989 (aged 29),30,9, Borussia Dortmund
+493,Group F,Germany,3MF,Sebastian Rudy,No,(1990-02-28)28 February 1990 (aged 28),25,1, Bayern Munich
+494,Group F,Germany,3MF,Leroy Sané,No,(1996-01-11)11 January 1996 (aged 22),12,0, Manchester City
+495,Group F,Germany,4FW,Mario Gómez,No,(1985-07-10)10 July 1985 (aged 32),74,31, VfB Stuttgart
+496,Group F,Germany,4FW,Thomas Müller,No,(1989-09-13)13 September 1989 (aged 28),90,38, Bayern Munich
+497,Group F,Germany,4FW,Nils Petersen,No,(1988-12-06)6 December 1988 (aged 29),1,0, SC Freiburg
+498,Group F,Germany,4FW,Timo Werner,No,(1996-03-06)6 March 1996 (aged 22),13,7, RB Leipzig
+499,Group F,Mexico,1GK,Guillermo Ochoa,No,(1985-07-13)13 July 1985 (aged 32),93,0, Standard Liège
+500,Group F,Mexico,1GK,José de Jesús Corona,No,(1981-01-28)28 January 1981 (aged 37),52,0, Cruz Azul
+501,Group F,Mexico,1GK,Alfredo Talavera,No,(1982-09-18)18 September 1982 (aged 35),27,0, Toluca
+502,Group F,Mexico,2DF,Héctor Moreno,No,(1988-01-17)17 January 1988 (aged 30),91,3, Real Sociedad
+503,Group F,Mexico,2DF,Miguel Layún,No,(1988-06-25)25 June 1988 (aged 29),63,6, Sevilla
+504,Group F,Mexico,2DF,Diego Reyes,No,(1992-09-19)19 September 1992 (aged 25),55,1, Porto
+505,Group F,Mexico,2DF,Hugo Ayala,No,(1987-03-31)31 March 1987 (aged 31),42,1, UANL
+506,Group F,Mexico,2DF,Jesús Gallardo,No,(1994-08-14)14 August 1994 (aged 23),22,0, UNAM
+507,Group F,Mexico,2DF,Carlos Salcedo,No,(1993-09-29)29 September 1993 (aged 24),20,0, Eintracht Frankfurt
+508,Group F,Mexico,2DF,Edson Álvarez,No,(1997-10-24)24 October 1997 (aged 20),12,1, América
+509,Group F,Mexico,3MF,Andrés Guardado,Si,(1986-09-28)28 September 1986 (aged 31),144,25, Real Betis
+510,Group F,Mexico,3MF,Marco Fabián,No,(1989-07-21)21 July 1989 (aged 28),38,9, Eintracht Frankfurt
+511,Group F,Mexico,3MF,Héctor Herrera,No,(1990-04-19)19 April 1990 (aged 28),65,5, Porto
+512,Group F,Mexico,3MF,Rafael Márquez,No,(1979-02-13)13 February 1979 (aged 39),144,18, Atlas
+513,Group F,Mexico,3MF,Jonathan dos Santos,No,(1990-04-26)26 April 1990 (aged 28),31,0, LA Galaxy
+514,Group F,Mexico,3MF,Giovani dos Santos,No,(1989-05-11)11 May 1989 (aged 29),104,19, LA Galaxy
+515,Group F,Mexico,3MF,Érick Gutiérrez,No,(1995-06-17)17 June 1995 (aged 22),10,0, Pachuca
+516,Group F,Mexico,4FW,Javier Aquino,No,(1990-02-11)11 February 1990 (aged 28),53,0, UANL
+517,Group F,Mexico,4FW,Javier Hernández,No,(1988-06-01)1 June 1988 (aged 30),101,49, West Ham United
+518,Group F,Mexico,4FW,Carlos Vela,No,(1989-03-01)1 March 1989 (aged 29),68,18, Los Angeles FC
+519,Group F,Mexico,4FW,Oribe Peralta,No,(1984-01-12)12 January 1984 (aged 34),66,26, América
+520,Group F,Mexico,4FW,Raúl Jiménez,No,(1991-05-05)5 May 1991 (aged 27),63,13, Benfica
+521,Group F,Mexico,4FW,Jesús Manuel Corona,No,(1993-01-06)6 January 1993 (aged 25),35,7, Porto
+522,Group F,Mexico,4FW,Hirving Lozano,No,(1995-07-30)30 July 1995 (aged 22),27,7, PSV Eindhoven
+523,Group F,South Korea,1GK,Cho Hyun-woo,No,(1991-09-25)25 September 1991 (aged 26),5,0, Daegu FC
+524,Group F,South Korea,1GK,Kim Jin-hyeon,No,(1987-07-06)6 July 1987 (aged 30),14,0, Cerezo Osaka
+525,Group F,South Korea,1GK,Kim Seung-gyu,No,(1990-09-30)30 September 1990 (aged 27),32,0, Vissel Kobe
+526,Group F,South Korea,2DF,Go Yo-han,No,(1988-03-10)10 March 1988 (aged 30),19,0, FC Seoul
+527,Group F,South Korea,2DF,Hong Chul,No,(1990-09-17)17 September 1990 (aged 27),14,0, Sangju Sangmu
+528,Group F,South Korea,2DF,Jang Hyun-soo,No,(1991-09-28)28 September 1991 (aged 26),49,3, FC Tokyo
+529,Group F,South Korea,2DF,Jung Seung-hyun,No,(1994-04-03)3 April 1994 (aged 24),6,0, Sagan Tosu
+530,Group F,South Korea,2DF,Kim Min-woo,No,(1990-02-25)25 February 1990 (aged 28),18,1, Sangju Sangmu
+531,Group F,South Korea,2DF,Kim Young-gwon,No,(1990-02-27)27 February 1990 (aged 28),51,2, Guangzhou Evergrande
+532,Group F,South Korea,2DF,Lee Yong,No,(1986-12-24)24 December 1986 (aged 31),26,0, Jeonbuk Hyundai Motors
+533,Group F,South Korea,2DF,Oh Ban-suk,No,(1988-05-20)20 May 1988 (aged 30),2,0, Jeju United
+534,Group F,South Korea,2DF,Park Joo-ho,No,(1987-01-16)16 January 1987 (aged 31),35,0, Ulsan Hyundai
+535,Group F,South Korea,2DF,Yun Young-sun,No,(1988-10-04)4 October 1988 (aged 29),5,0, Seongnam FC
+536,Group F,South Korea,3MF,Ju Se-jong,No,(1990-10-30)30 October 1990 (aged 27),10,1, Asan Mugunghwa
+537,Group F,South Korea,3MF,Jung Woo-young,No,(1989-12-14)14 December 1989 (aged 28),28,1, Vissel Kobe
+538,Group F,South Korea,3MF,Ki Sung-yueng,Si,(1989-01-24)24 January 1989 (aged 29),100,10, Swansea City
+539,Group F,South Korea,3MF,Koo Ja-cheol,No,(1989-02-27)27 February 1989 (aged 29),66,19, FC Augsburg
+540,Group F,South Korea,3MF,Lee Jae-sung,No,(1992-08-10)10 August 1992 (aged 25),33,6, Jeonbuk Hyundai Motors
+541,Group F,South Korea,3MF,Lee Seung-woo,No,(1998-01-06)6 January 1998 (aged 20),2,0, Hellas Verona
+542,Group F,South Korea,3MF,Moon Seon-min,No,(1992-06-09)9 June 1992 (aged 26),2,1, Incheon United
+543,Group F,South Korea,4FW,Hwang Hee-chan,No,(1996-01-26)26 January 1996 (aged 22),13,2, Red Bull Salzburg
+544,Group F,South Korea,4FW,Kim Shin-wook,No,(1988-04-14)14 April 1988 (aged 30),48,10, Jeonbuk Hyundai Motors
+545,Group F,South Korea,4FW,Son Heung-min,No,(1992-07-08)8 July 1992 (aged 25),65,21, Tottenham Hotspur
+546,Group F,Sweden,1GK,Robin Olsen,No,(1990-01-08)8 January 1990 (aged 28),17,0, Copenhagen
+547,Group F,Sweden,2DF,Mikael Lustig,No,(1986-12-13)13 December 1986 (aged 31),65,6, Celtic
+548,Group F,Sweden,2DF,Victor Lindelöf,No,(1994-07-17)17 July 1994 (aged 23),20,1, Manchester United
+549,Group F,Sweden,2DF,Andreas Granqvist,Si,(1985-04-16)16 April 1985 (aged 33),71,6, Krasnodar
+550,Group F,Sweden,2DF,Martin Olsson,No,(1988-05-17)17 May 1988 (aged 30),43,5, Swansea City
+551,Group F,Sweden,2DF,Ludwig Augustinsson,No,(1994-04-21)21 April 1994 (aged 24),14,0, Werder Bremen
+552,Group F,Sweden,3MF,Sebastian Larsson,No,(1985-06-06)6 June 1985 (aged 33),99,6, Hull City
+553,Group F,Sweden,3MF,Albin Ekdal,No,(1989-07-28)28 July 1989 (aged 28),33,0, Hamburger SV
+554,Group F,Sweden,4FW,Marcus Berg,No,(1986-08-17)17 August 1986 (aged 31),56,18, Al Ain
+555,Group F,Sweden,3MF,Emil Forsberg,No,(1991-10-23)23 October 1991 (aged 26),35,6, RB Leipzig
+556,Group F,Sweden,4FW,John Guidetti,No,(1992-04-15)15 April 1992 (aged 26),20,1, Alavés
+557,Group F,Sweden,1GK,Karl-Johan Johnsson,No,(1990-01-28)28 January 1990 (aged 28),5,0, Guingamp
+558,Group F,Sweden,3MF,Gustav Svensson,No,(1987-02-07)7 February 1987 (aged 31),12,0, Seattle Sounders FC
+559,Group F,Sweden,2DF,Filip Helander,No,(1993-04-22)22 April 1993 (aged 25),4,0, Bologna
+560,Group F,Sweden,3MF,Oscar Hiljemark,No,(1992-06-28)28 June 1992 (aged 25),21,2, Genoa
+561,Group F,Sweden,2DF,Emil Krafth,No,(1994-08-02)2 August 1994 (aged 23),12,0, Bologna
+562,Group F,Sweden,3MF,Viktor Claesson,No,(1992-01-02)2 January 1992 (aged 26),21,3, Krasnodar
+563,Group F,Sweden,2DF,Pontus Jansson,No,(1991-02-13)13 February 1991 (aged 27),15,0, Leeds United
+564,Group F,Sweden,3MF,Marcus Rohdén,No,(1991-05-11)11 May 1991 (aged 27),11,1, Crotone
+565,Group F,Sweden,4FW,Ola Toivonen,No,(1986-07-03)3 July 1986 (aged 31),58,13, Toulouse
+566,Group F,Sweden,3MF,Jimmy Durmaz,No,(1989-03-22)22 March 1989 (aged 29),45,3, Toulouse
+567,Group F,Sweden,4FW,Isaac Kiese Thelin,No,(1992-06-24)24 June 1992 (aged 25),19,2, Waasland-Beveren
+568,Group F,Sweden,1GK,Kristoffer Nordfeldt,No,(1989-06-23)23 June 1989 (aged 28),8,0, Swansea City
+569,Group G,Belgium,1GK,Thibaut Courtois,No,(1992-05-11)11 May 1992 (aged 26),56,0, Chelsea
+570,Group G,Belgium,1GK,Matz Sels,No,(1992-02-26)26 February 1992 (aged 26),0,0, Anderlecht
+571,Group G,Belgium,1GK,Simon Mignolet,No,(1988-03-06)6 March 1988 (aged 30),21,0, Liverpool
+572,Group G,Belgium,1GK,Koen Casteels,No,(1992-06-25)25 June 1992 (aged 25),0,0, VfL Wolfsburg
+573,Group G,Belgium,2DF,Toby Alderweireld,No,(1989-03-02)2 March 1989 (aged 29),72,3, Tottenham Hotspur
+574,Group G,Belgium,2DF,Vincent Kompany,No,(1986-04-10)10 April 1986 (aged 32),74,4, Manchester City
+575,Group G,Belgium,2DF,Jan Vertonghen,No,(1987-04-24)24 April 1987 (aged 31),100,8, Tottenham Hotspur
+576,Group G,Belgium,2DF,Thomas Meunier,No,(1991-09-12)12 September 1991 (aged 26),23,5, Paris Saint-Germain
+577,Group G,Belgium,2DF,Thomas Vermaelen,No,(1985-11-14)14 November 1985 (aged 32),64,1, Barcelona
+578,Group G,Belgium,2DF,Jordan Lukaku,No,(1994-07-25)25 July 1994 (aged 23),8,0, Lazio
+579,Group G,Belgium,2DF,Christian Kabasele,No,(1991-02-24)24 February 1991 (aged 27),2,0, Watford
+580,Group G,Belgium,2DF,Laurent Ciman,No,(1985-08-05)5 August 1985 (aged 32),19,1, Los Angeles FC
+581,Group G,Belgium,2DF,Dedryck Boyata,No,(1990-11-28)28 November 1990 (aged 27),5,0, Celtic
+582,Group G,Belgium,3MF,Axel Witsel,No,(1989-01-12)12 January 1989 (aged 29),85,9, Tianjin Quanjian
+583,Group G,Belgium,3MF,Kevin De Bruyne,No,(1991-06-28)28 June 1991 (aged 26),57,13, Manchester City
+584,Group G,Belgium,3MF,Marouane Fellaini,No,(1987-11-22)22 November 1987 (aged 30),79,16, Manchester United
+585,Group G,Belgium,3MF,Adnan Januzaj,No,(1995-02-05)5 February 1995 (aged 23),7,0, Real Sociedad
+586,Group G,Belgium,3MF,Mousa Dembélé,No,(1987-07-16)16 July 1987 (aged 30),74,5, Tottenham Hotspur
+587,Group G,Belgium,3MF,Youri Tielemans,No,(1997-05-07)7 May 1997 (aged 21),7,0, Monaco
+588,Group G,Belgium,3MF,Yannick Carrasco,No,(1993-09-04)4 September 1993 (aged 24),23,5, Dalian Yifang
+589,Group G,Belgium,3MF,Leander Dendoncker,No,(1995-04-15)15 April 1995 (aged 23),4,0, Anderlecht
+590,Group G,Belgium,3MF,Nacer Chadli,No,(1989-08-02)2 August 1989 (aged 28),41,4, West Bromwich Albion
+591,Group G,Belgium,3MF,Eden Hazard,Si,(1991-01-07)7 January 1991 (aged 27),82,21, Chelsea
+592,Group G,Belgium,3MF,Thorgan Hazard,No,(1993-03-29)29 March 1993 (aged 25),8,1, Borussia Mönchengladbach
+593,Group G,Belgium,4FW,Romelu Lukaku,No,(1993-05-13)13 May 1993 (aged 25),64,30, Manchester United
+594,Group G,Belgium,4FW,Christian Benteke,No,(1990-12-03)3 December 1990 (aged 27),32,11, Crystal Palace
+595,Group G,Belgium,4FW,Dries Mertens,No,(1987-05-06)6 May 1987 (aged 31),65,13, Napoli
+596,Group G,Belgium,4FW,Michy Batshuayi,No,(1993-10-02)2 October 1993 (aged 24),13,5, Borussia Dortmund
+597,Group G,England,1GK,Jack Butland,No,(1993-03-10)10 March 1993 (aged 25),7,0, Stoke City
+598,Group G,England,1GK,Jordan Pickford,No,(1994-03-07)7 March 1994 (aged 24),3,0, Everton
+599,Group G,England,1GK,Nick Pope,No,(1992-04-19)19 April 1992 (aged 26),0,0, Burnley
+600,Group G,England,2DF,Trent Alexander-Arnold,No,(1998-10-07)7 October 1998 (aged 19),0,0, Liverpool
+601,Group G,England,2DF,Gary Cahill,No,(1985-12-19)19 December 1985 (aged 32),59,5, Chelsea
+602,Group G,England,2DF,Fabian Delph,No,(1989-11-21)21 November 1989 (aged 28),10,0, Manchester City
+603,Group G,England,2DF,Phil Jones,No,(1992-02-21)21 February 1992 (aged 26),24,0, Manchester United
+604,Group G,England,2DF,Harry Maguire,No,(1993-03-05)5 March 1993 (aged 25),4,0, Leicester City
+605,Group G,England,2DF,Danny Rose,No,(1990-07-02)2 July 1990 (aged 27),17,0, Tottenham Hotspur
+606,Group G,England,2DF,John Stones,No,(1994-05-28)28 May 1994 (aged 24),25,0, Manchester City
+607,Group G,England,2DF,Kieran Trippier,No,(1990-09-19)19 September 1990 (aged 27),6,0, Tottenham Hotspur
+608,Group G,England,2DF,Kyle Walker,No,(1990-05-28)28 May 1990 (aged 28),35,0, Manchester City
+609,Group G,England,2DF,Ashley Young,No,(1985-07-09)9 July 1985 (aged 32),34,7, Manchester United
+610,Group G,England,3MF,Dele Alli,No,(1996-04-11)11 April 1996 (aged 22),24,2, Tottenham Hotspur
+611,Group G,England,3MF,Eric Dier,No,(1994-01-15)15 January 1994 (aged 24),26,3, Tottenham Hotspur
+612,Group G,England,3MF,Jordan Henderson,No,(1990-06-17)17 June 1990 (aged 27),38,0, Liverpool
+613,Group G,England,3MF,Jesse Lingard,No,(1992-12-15)15 December 1992 (aged 25),11,1, Manchester United
+614,Group G,England,3MF,Ruben Loftus-Cheek,No,(1996-01-23)23 January 1996 (aged 22),3,0, Crystal Palace
+615,Group G,England,4FW,Harry Kane,Si,(1993-07-28)28 July 1993 (aged 24),24,13, Tottenham Hotspur
+616,Group G,England,4FW,Marcus Rashford,No,(1997-10-31)31 October 1997 (aged 20),18,2, Manchester United
+617,Group G,England,4FW,Raheem Sterling,No,(1994-12-08)8 December 1994 (aged 23),38,2, Manchester City
+618,Group G,England,4FW,Jamie Vardy,No,(1987-01-11)11 January 1987 (aged 31),21,7, Leicester City
+619,Group G,England,4FW,Danny Welbeck,No,(1990-11-26)26 November 1990 (aged 27),38,15, Arsenal
+620,Group G,Panama,1GK,José Calderón,No,(1985-08-14)14 August 1985 (aged 32),31,0, Chorrillo
+621,Group G,Panama,1GK,Jaime Penedo,No,(1981-09-26)26 September 1981 (aged 36),130,0, Dinamo București
+622,Group G,Panama,1GK,Álex Rodríguez,No,(1990-08-05)5 August 1990 (aged 27),6,0, San Francisco
+623,Group G,Panama,2DF,Felipe Baloy,Si,(1981-02-24)24 February 1981 (aged 37),102,3, Municipal
+624,Group G,Panama,2DF,Harold Cummings,No,(1992-03-01)1 March 1992 (aged 26),51,0, San Jose Earthquakes
+625,Group G,Panama,2DF,Erick Davis,No,(1991-03-31)31 March 1991 (aged 27),37,0, Dunajská Streda
+626,Group G,Panama,2DF,Fidel Escobar,No,(1995-01-09)9 January 1995 (aged 23),22,1, New York Red Bulls
+627,Group G,Panama,2DF,Adolfo Machado,No,(1985-02-14)14 February 1985 (aged 33),75,1, Houston Dynamo
+628,Group G,Panama,2DF,Michael Amir Murillo,No,(1996-02-15)15 February 1996 (aged 22),21,2, New York Red Bulls
+629,Group G,Panama,2DF,Luis Ovalle,No,(1988-09-07)7 September 1988 (aged 29),25,0, CD Olimpia
+630,Group G,Panama,2DF,Román Torres,No,(1986-03-20)20 March 1986 (aged 32),110,10, Seattle Sounders FC
+631,Group G,Panama,3MF,Édgar Bárcenas,No,(1993-10-23)23 October 1993 (aged 24),28,0, Tapachula
+632,Group G,Panama,3MF,Armando Cooper,No,(1987-11-26)26 November 1987 (aged 30),97,7, Universidad de Chile
+633,Group G,Panama,3MF,Aníbal Godoy,No,(1990-02-10)10 February 1990 (aged 28),88,2, San Jose Earthquakes
+634,Group G,Panama,3MF,Gabriel Gómez,No,(1984-05-29)29 May 1984 (aged 34),143,12, Atlético Bucaramanga
+635,Group G,Panama,3MF,Valentín Pimentel,No,(1991-05-30)30 May 1991 (aged 27),22,1, Plaza Amador
+636,Group G,Panama,3MF,Alberto Quintero,No,(1987-12-18)18 December 1987 (aged 30),89,5, Universitario
+637,Group G,Panama,3MF,José Luis Rodríguez,No,(1998-06-19)19 June 1998 (aged 19),1,0, Gent
+638,Group G,Panama,4FW,Abdiel Arroyo,No,(1993-12-13)13 December 1993 (aged 24),33,5, Alajuelense
+639,Group G,Panama,4FW,Ismael Díaz,No,(1997-05-12)12 May 1997 (aged 21),10,2, Deportivo Fabril
+640,Group G,Panama,4FW,Blas Pérez,No,(1981-03-13)13 March 1981 (aged 37),117,43, Municipal
+641,Group G,Panama,4FW,Luis Tejada,No,(1982-03-28)28 March 1982 (aged 36),105,43, Sport Boys
+642,Group G,Panama,4FW,Gabriel Torres,No,(1988-10-31)31 October 1988 (aged 29),71,14, Huachipato
+643,Group G,Tunisia,1GK,Farouk Ben Mustapha,No,(1989-07-01)1 July 1989 (aged 28),15,0, Al-Shabab
+644,Group G,Tunisia,1GK,Mouez Hassen,No,(1995-03-05)5 March 1995 (aged 23),3,0, Châteauroux
+645,Group G,Tunisia,1GK,Aymen Mathlouthi,Si,(1984-09-14)14 September 1984 (aged 33),69,0, Al-Batin
+646,Group G,Tunisia,2DF,Rami Bedoui,No,(1990-01-19)19 January 1990 (aged 28),8,0, Étoile du Sahel
+647,Group G,Tunisia,2DF,Yohan Benalouane,No,(1987-03-28)28 March 1987 (aged 31),3,0, Leicester City
+648,Group G,Tunisia,2DF,Syam Ben Youssef,No,(1989-03-31)31 March 1989 (aged 29),41,1, Kasımpaşa
+649,Group G,Tunisia,2DF,Dylan Bronn,No,(1995-06-19)19 June 1995 (aged 22),4,0, Gent
+650,Group G,Tunisia,2DF,Oussama Haddadi,No,(1992-01-28)28 January 1992 (aged 26),8,0, Dijon
+651,Group G,Tunisia,2DF,Ali Maâloul,No,(1990-01-01)1 January 1990 (aged 28),45,0, Al Ahly
+652,Group G,Tunisia,2DF,Yassine Meriah,No,(1993-07-02)2 July 1993 (aged 24),15,1, CS Sfaxien
+653,Group G,Tunisia,2DF,Hamdi Nagguez,No,(1992-10-28)28 October 1992 (aged 25),15,0, Zamalek
+654,Group G,Tunisia,3MF,Mohamed Amine Ben Amor,No,(1992-01-01)1 January 1992 (aged 26),25,1, Al-Ahli
+655,Group G,Tunisia,3MF,Ghailene Chaalali,No,(1994-02-28)28 February 1994 (aged 24),6,1, Espérance
+656,Group G,Tunisia,3MF,Ahmed Khalil,No,(1994-12-21)21 December 1994 (aged 23),3,0, Club Africain
+657,Group G,Tunisia,3MF,Saîf-Eddine Khaoui,No,(1995-04-27)27 April 1995 (aged 23),4,0, Troyes
+658,Group G,Tunisia,3MF,Ferjani Sassi,No,(1992-03-18)18 March 1992 (aged 26),38,3, Al-Nassr
+659,Group G,Tunisia,3MF,Ellyes Skhiri,No,(1995-05-10)10 May 1995 (aged 23),4,0, Montpellier
+660,Group G,Tunisia,4FW,Anice Badri,No,(1990-08-18)18 August 1990 (aged 27),6,2, Espérance
+661,Group G,Tunisia,4FW,Fakhreddine Ben Youssef,No,(1991-06-21)21 June 1991 (aged 26),38,5, Al-Ettifaq
+662,Group G,Tunisia,4FW,Saber Khalifa,No,(1986-10-14)14 October 1986 (aged 31),43,7, Club Africain
+663,Group G,Tunisia,4FW,Wahbi Khazri,No,(1991-02-08)8 February 1991 (aged 27),35,12, Rennes
+664,Group G,Tunisia,4FW,Naïm Sliti,No,(1992-07-27)27 July 1992 (aged 25),16,3, Dijon
+665,Group G,Tunisia,4FW,Bassem Srarfi,No,(1997-06-25)25 June 1997 (aged 20),4,0, Nice
+666,Group H,Colombia,1GK,David Ospina,No,(1988-08-31)31 August 1988 (aged 29),86,0, Arsenal
+667,Group H,Colombia,1GK,Camilo Vargas,No,(1989-03-09)9 March 1989 (aged 29),5,0, Deportivo Cali
+668,Group H,Colombia,1GK,Iván Arboleda,No,(1996-04-21)21 April 1996 (aged 22),0,0, Banfield
+669,Group H,Colombia,1GK,José Fernando Cuadrado,No,(1985-06-01)1 June 1985 (aged 33),1,0, Once Caldas
+670,Group H,Colombia,2DF,Cristián Zapata,No,(1986-09-30)30 September 1986 (aged 31),55,2, Milan
+671,Group H,Colombia,2DF,Dávinson Sánchez,No,(1996-05-12)12 May 1996 (aged 22),9,0, Tottenham Hotspur
+672,Group H,Colombia,2DF,Santiago Arias,No,(1992-01-13)13 January 1992 (aged 26),41,0, PSV Eindhoven
+673,Group H,Colombia,2DF,Óscar Murillo,No,(1988-04-18)18 April 1988 (aged 30),13,0, Pachuca
+674,Group H,Colombia,2DF,Frank Fabra,No,(1991-02-22)22 February 1991 (aged 27),19,1, Boca Juniors
+675,Group H,Colombia,2DF,Johan Mojica,No,(1991-08-21)21 August 1991 (aged 26),4,1, Girona
+676,Group H,Colombia,2DF,Yerry Mina,No,(1994-09-23)23 September 1994 (aged 23),12,3, Barcelona
+677,Group H,Colombia,2DF,William Tesillo,No,(1990-02-02)2 February 1990 (aged 28),3,0, Club León
+678,Group H,Colombia,2DF,Bernardo Espinosa,No,(1989-07-11)11 July 1989 (aged 28),0,0, Girona
+679,Group H,Colombia,2DF,Stefan Medina,No,(1992-06-14)14 June 1992 (aged 26),11,0, Monterrey
+680,Group H,Colombia,2DF,Farid Díaz,No,(1983-07-20)20 July 1983 (aged 34),13,0, Olimpia
+681,Group H,Colombia,3MF,Wílmar Barrios,No,(1993-10-16)16 October 1993 (aged 24),10,0, Boca Juniors
+682,Group H,Colombia,3MF,Carlos Sánchez,No,(1986-02-06)6 February 1986 (aged 32),85,0, Espanyol
+683,Group H,Colombia,3MF,Jefferson Lerma,No,(1994-10-25)25 October 1994 (aged 23),5,0, Levante
+684,Group H,Colombia,3MF,José Izquierdo,No,(1992-07-07)7 July 1992 (aged 25),5,1, Brighton & Hove Albion
+685,Group H,Colombia,3MF,James Rodríguez,No,(1991-07-12)12 July 1991 (aged 26),63,21, Bayern Munich
+686,Group H,Colombia,3MF,Giovanni Moreno,No,(1986-07-01)1 July 1986 (aged 31),21,3, Shanghai Greenland Shenhua
+687,Group H,Colombia,3MF,Abel Aguilar,No,(1985-01-06)6 January 1985 (aged 33),70,7, Deportivo Cali
+688,Group H,Colombia,3MF,Mateus Uribe,No,(1991-03-21)21 March 1991 (aged 27),8,0, América
+689,Group H,Colombia,3MF,Yimmi Chará,No,(1991-04-02)2 April 1991 (aged 27),7,0, Junior
+690,Group H,Colombia,3MF,Juan Fernando Quintero,No,(1993-01-18)18 January 1993 (aged 25),15,2, River Plate
+691,Group H,Colombia,3MF,Edwin Cardona,No,(1992-12-08)8 December 1992 (aged 25),31,5, Boca Juniors
+692,Group H,Colombia,3MF,Juan Cuadrado,No,(1988-05-26)26 May 1988 (aged 30),70,7, Juventus
+693,Group H,Colombia,3MF,Gustavo Cuéllar,No,(1992-10-14)14 October 1992 (aged 25),3,0, Flamengo
+694,Group H,Colombia,3MF,Sebastián Pérez Cardona,No,(1993-03-29)29 March 1993 (aged 25),8,1, Boca Juniors
+695,Group H,Colombia,4FW,Radamel Falcao,Si,(1986-02-10)10 February 1986 (aged 32),73,29, Monaco
+696,Group H,Colombia,4FW,Duván Zapata,No,(1991-04-01)1 April 1991 (aged 27),5,0, Sampdoria
+697,Group H,Colombia,4FW,Miguel Borja,No,(1993-01-26)26 January 1993 (aged 25),7,2, Palmeiras
+698,Group H,Colombia,4FW,Carlos Bacca,No,(1986-09-08)8 September 1986 (aged 31),45,14, Villarreal
+699,Group H,Colombia,4FW,Luis Muriel,No,(1991-04-16)16 April 1991 (aged 27),18,2, Sevilla
+700,Group H,Colombia,4FW,Teófilo Gutiérrez,No,(1985-05-17)17 May 1985 (aged 33),51,15, Junior
+701,Group H,Japan,1GK,Eiji Kawashima,No,(1983-03-20)20 March 1983 (aged 35),83,0, Metz
+702,Group H,Japan,2DF,Naomichi Ueda,No,(1994-10-24)24 October 1994 (aged 23),3,0, Kashima Antlers
+703,Group H,Japan,2DF,Gen Shoji,No,(1992-12-11)11 December 1992 (aged 25),10,1, Kashima Antlers
+704,Group H,Japan,3MF,Keisuke Honda,No,(1986-06-13)13 June 1986 (aged 32),94,36, Pachuca
+705,Group H,Japan,2DF,Yuto Nagatomo,No,(1986-09-12)12 September 1986 (aged 31),104,3, Galatasaray
+706,Group H,Japan,2DF,Wataru Endo,No,(1993-02-09)9 February 1993 (aged 25),11,0, Urawa Red Diamonds
+707,Group H,Japan,3MF,Gaku Shibasaki,No,(1992-05-28)28 May 1992 (aged 26),16,3, Getafe
+708,Group H,Japan,3MF,Genki Haraguchi,No,(1991-05-09)9 May 1991 (aged 27),31,6, Fortuna Düsseldorf
+709,Group H,Japan,4FW,Shinji Okazaki,No,(1986-04-16)16 April 1986 (aged 32),112,50, Leicester City
+710,Group H,Japan,3MF,Shinji Kagawa,No,(1989-03-17)17 March 1989 (aged 29),90,29, Borussia Dortmund
+711,Group H,Japan,3MF,Takashi Usami,No,(1992-05-06)6 May 1992 (aged 26),22,3, Fortuna Düsseldorf
+712,Group H,Japan,1GK,Masaaki Higashiguchi,No,(1986-05-12)12 May 1986 (aged 32),4,0, Gamba Osaka
+713,Group H,Japan,4FW,Yoshinori Mutō,No,(1992-07-15)15 July 1992 (aged 25),22,2, Mainz 05
+714,Group H,Japan,3MF,Takashi Inui,No,(1988-06-02)2 June 1988 (aged 30),25,2, Eibar
+715,Group H,Japan,4FW,Yuya Osako,No,(1990-05-18)18 May 1990 (aged 28),27,7, 1. FC Köln
+716,Group H,Japan,3MF,Hotaru Yamaguchi,No,(1990-10-06)6 October 1990 (aged 27),41,2, Cerezo Osaka
+717,Group H,Japan,3MF,Makoto Hasebe,Si,(1984-01-18)18 January 1984 (aged 34),109,2, Eintracht Frankfurt
+718,Group H,Japan,3MF,Ryota Oshima,No,(1993-01-23)23 January 1993 (aged 25),4,0, Kawasaki Frontale
+719,Group H,Japan,2DF,Hiroki Sakai,No,(1990-04-12)12 April 1990 (aged 28),41,0, Marseille
+720,Group H,Japan,2DF,Tomoaki Makino,No,(1987-05-11)11 May 1987 (aged 31),31,4, Urawa Red Diamonds
+721,Group H,Japan,2DF,Gōtoku Sakai,No,(1991-03-14)14 March 1991 (aged 27),39,0, Hamburger SV
+722,Group H,Japan,2DF,Maya Yoshida,No,(1988-08-24)24 August 1988 (aged 29),81,10, Southampton
+723,Group H,Japan,1GK,Kosuke Nakamura,No,(1995-02-27)27 February 1995 (aged 23),3,0, Kashiwa Reysol
+724,Group H,Poland,1GK,Bartosz Białkowski,No,(1987-07-06)6 July 1987 (aged 30),1,0, Ipswich Town
+725,Group H,Poland,1GK,Łukasz Fabiański,No,(1985-04-18)18 April 1985 (aged 33),43,0, Swansea City
+726,Group H,Poland,1GK,Łukasz Skorupski,No,(1991-05-05)5 May 1991 (aged 27),2,0, Roma
+727,Group H,Poland,1GK,Wojciech Szczęsny,No,(1990-04-18)18 April 1990 (aged 28),33,0, Juventus
+728,Group H,Poland,2DF,Jan Bednarek,No,(1996-04-12)12 April 1996 (aged 22),1,0, Southampton
+729,Group H,Poland,2DF,Bartosz Bereszyński,No,(1992-07-12)12 July 1992 (aged 25),6,0, Sampdoria
+730,Group H,Poland,2DF,Thiago Cionek,No,(1986-04-21)21 April 1986 (aged 32),17,0, SPAL
+731,Group H,Poland,2DF,Kamil Glik,No,(1988-02-03)3 February 1988 (aged 30),57,4, Monaco
+732,Group H,Poland,2DF,Artur Jędrzejczyk,No,(1987-11-04)4 November 1987 (aged 30),35,3, Legia Warsaw
+733,Group H,Poland,2DF,Marcin Kamiński,No,(1992-01-15)15 January 1992 (aged 26),5,0, VfB Stuttgart
+734,Group H,Poland,2DF,Tomasz Kędziora,No,(1994-06-11)11 June 1994 (aged 24),3,0, Dynamo Kyiv
+735,Group H,Poland,2DF,Michał Pazdan,No,(1987-09-21)21 September 1987 (aged 30),31,0, Legia Warsaw
+736,Group H,Poland,2DF,Łukasz Piszczek,No,(1985-06-03)3 June 1985 (aged 33),61,3, Borussia Dortmund
+737,Group H,Poland,3MF,Jakub Błaszczykowski,No,(1985-12-14)14 December 1985 (aged 32),97,19, VfL Wolfsburg
+738,Group H,Poland,3MF,Paweł Dawidowicz,No,(1995-05-20)20 May 1995 (aged 23),1,0, Palermo
+739,Group H,Poland,3MF,Przemysław Frankowski,No,(1995-04-12)12 April 1995 (aged 23),1,0, Jagiellonia Białystok
+740,Group H,Poland,3MF,Jacek Góralski,No,(1992-09-21)21 September 1992 (aged 25),3,0, Ludogorets Razgrad
+741,Group H,Poland,3MF,Kamil Grosicki,No,(1988-06-08)8 June 1988 (aged 30),56,12, Hull City
+742,Group H,Poland,3MF,Grzegorz Krychowiak,No,(1990-01-29)29 January 1990 (aged 28),49,2, West Bromwich Albion
+743,Group H,Poland,3MF,Rafał Kurzawa,No,(1993-01-29)29 January 1993 (aged 25),3,0, Górnik Zabrze
+744,Group H,Poland,3MF,Karol Linetty,No,(1995-02-02)2 February 1995 (aged 23),19,1, Sampdoria
+745,Group H,Poland,3MF,Krzysztof Mączyński,No,(1987-05-23)23 May 1987 (aged 31),31,2, Legia Warsaw
+746,Group H,Poland,3MF,Sławomir Peszko,No,(1985-02-19)19 February 1985 (aged 33),43,2, Lechia Gdańsk
+747,Group H,Poland,3MF,Maciej Rybus,No,(1989-08-19)19 August 1989 (aged 28),49,2, Lokomotiv Moscow
+748,Group H,Poland,3MF,Sebastian Szymański,No,(1999-05-10)10 May 1999 (aged 19),0,0, Legia Warsaw
+749,Group H,Poland,3MF,Piotr Zieliński,No,(1994-05-20)20 May 1994 (aged 24),31,4, Napoli
+750,Group H,Poland,3MF,Szymon Żurkowski,No,(1997-09-25)25 September 1997 (aged 20),0,0, Górnik Zabrze
+751,Group H,Poland,4FW,Dawid Kownacki,No,(1997-03-14)14 March 1997 (aged 21),1,0, Sampdoria
+752,Group H,Poland,4FW,Robert Lewandowski,Si,(1988-08-21)21 August 1988 (aged 29),93,52, Bayern Munich
+753,Group H,Poland,4FW,Arkadiusz Milik,No,(1994-02-28)28 February 1994 (aged 24),38,12, Napoli
+754,Group H,Poland,4FW,Łukasz Teodorczyk,No,(1991-06-03)3 June 1991 (aged 27),15,4, Anderlecht
+755,Group H,Poland,4FW,Kamil Wilczek,No,(1988-01-14)14 January 1988 (aged 30),3,0, Brøndby
+756,Group H,Senegal,1GK,Abdoulaye Diallo,No,(1992-03-30)30 March 1992 (aged 26),16,0, Rennes
+757,Group H,Senegal,2DF,Kara Mbodji,No,(1989-11-11)11 November 1989 (aged 28),51,5, Anderlecht
+758,Group H,Senegal,2DF,Kalidou Koulibaly,No,(1991-06-20)20 June 1991 (aged 26),24,0, Napoli
+759,Group H,Senegal,2DF,Saliou Ciss,No,(1989-09-15)15 September 1989 (aged 28),18,0, Valenciennes
+760,Group H,Senegal,3MF,Idrissa Gueye,No,(1989-09-26)26 September 1989 (aged 28),59,1, Everton
+761,Group H,Senegal,2DF,Salif Sané,No,(1990-08-25)25 August 1990 (aged 27),20,0, Hannover 96
+762,Group H,Senegal,4FW,Moussa Sow,No,(1986-01-19)19 January 1986 (aged 32),50,18, Bursaspor
+763,Group H,Senegal,2DF,Cheikhou Kouyaté,Si,(1989-12-21)21 December 1989 (aged 28),47,2, West Ham United
+764,Group H,Senegal,4FW,Mame Biram Diouf,No,(1987-12-16)16 December 1987 (aged 30),47,10, Stoke City
+765,Group H,Senegal,4FW,Sadio Mané,No,(1992-04-10)10 April 1992 (aged 26),51,14, Liverpool
+766,Group H,Senegal,3MF,Cheikh N'Doye,No,(1986-03-29)29 March 1986 (aged 32),24,3, Birmingham City
+767,Group H,Senegal,2DF,Youssouf Sabaly,No,(1993-03-05)5 March 1993 (aged 25),3,0, Bordeaux
+768,Group H,Senegal,3MF,Alfred N'Diaye,No,(1990-03-06)6 March 1990 (aged 28),19,0, Wolverhampton Wanderers
+769,Group H,Senegal,4FW,Moussa Konaté,No,(1993-04-03)3 April 1993 (aged 25),27,9, Amiens
+770,Group H,Senegal,4FW,Diafra Sakho,No,(1989-12-24)24 December 1989 (aged 28),10,3, Rennes
+771,Group H,Senegal,1GK,Khadim N'Diaye,No,(1985-04-05)5 April 1985 (aged 33),25,0, Horoya
+772,Group H,Senegal,3MF,Badou Ndiaye,No,(1990-10-27)27 October 1990 (aged 27),18,1, Stoke City
+773,Group H,Senegal,4FW,Ismaïla Sarr,No,(1998-02-25)25 February 1998 (aged 20),14,2, Rennes
+774,Group H,Senegal,4FW,M'Baye Niang,No,(1994-12-19)19 December 1994 (aged 23),5,0, Torino
+775,Group H,Senegal,4FW,Keita Baldé,No,(1995-03-08)8 March 1995 (aged 23),17,3, Monaco
+776,Group H,Senegal,2DF,Lamine Gassama,No,(1989-10-20)20 October 1989 (aged 28),35,0, Alanyaspor
+777,Group H,Senegal,2DF,Moussa Wagué,No,(1998-10-04)4 October 1998 (aged 19),9,0, Eupen
+778,Group H,Senegal,1GK,Alfred Gomis,No,(1993-09-05)5 September 1993 (aged 24),1,0, SPAL
